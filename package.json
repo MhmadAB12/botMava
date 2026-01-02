@@ -1,0 +1,15 @@
+{
+  "name": "social-bot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@sparticuz/chromium": "^143.0.0",
+    "axios": "^1.6.0",
+    "dotenv": "^16.4.0",
+    "node-cron": "^3.0.2",
+    "puppeteer-core": "^24.34.0"
+  }
+}
