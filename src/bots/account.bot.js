@@ -5,7 +5,8 @@ const chromium = require('@sparticuz/chromium');
 const { faker } = require('@faker-js/faker');
 const mongoose = require('mongoose');
 const FormData = require('form-data');
-const fetch = require('node-fetch');
+// أعلى ملف account.bot.js
+const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch(...args));
 const logger = require('../utils/logger');
 const { addAccount } = require('../utils/accountManager');
 const Post = require('./Posts.js');
@@ -207,3 +208,4 @@ async function runAccountAndEngagementBot(postsPerRun = 3, delayBetween = 2000) 
 }
 
 module.exports = runAccountAndEngagementBot;
+
