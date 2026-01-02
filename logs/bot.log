@@ -1,0 +1,1235 @@
+[2025-12-31T14:16:01.566Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T14:17:02.674Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T14:18:02.090Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T14:19:01.120Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T14:20:01.673Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T14:21:01.225Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T14:22:01.973Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T14:23:01.542Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T14:24:01.201Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T14:24:50.346Z] INFO: 👤 Account bot started
+[2025-12-31T14:28:52.307Z] INFO: 👤 Account bot started
+[2025-12-31T14:28:56.514Z] INFO: 🔗 Opening register page
+[2025-12-31T14:28:56.544Z] ERROR: ❌ Account bot error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+[2025-12-31T14:32:40.324Z] INFO: 👤 Account bot started
+[2025-12-31T14:32:55.073Z] INFO: 👤 Account bot started
+[2025-12-31T14:32:58.766Z] INFO: 🔗 Opening register page
+[2025-12-31T14:32:58.794Z] ERROR: ❌ Account bot error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+[2025-12-31T14:35:58.610Z] INFO: 👤 Account bot started
+[2025-12-31T14:36:02.770Z] INFO: 🔗 Opening register page
+[2025-12-31T14:36:07.092Z] INFO: ✍️ Filling registration form
+[2025-12-31T14:36:18.554Z] INFO: ✅ Account created successfully: elfrieda_wyman@hotmail.com
+[2025-12-31T14:36:19.282Z] INFO: 👤 Account bot finished
+[2025-12-31T14:37:23.366Z] INFO: 👤 Account bot started
+[2025-12-31T14:37:27.233Z] INFO: 🔗 Opening register page
+[2025-12-31T14:37:30.652Z] INFO: ✍️ Filling registration form
+[2025-12-31T14:37:40.748Z] INFO: ✅ Account created successfully: evelyn66@gmail.com
+[2025-12-31T14:37:41.600Z] INFO: 👤 Account bot finished
+[2025-12-31T14:39:29.507Z] INFO: 🤝 Friends bot started
+[2025-12-31T14:41:00.957Z] INFO: 🤝 Friends bot started
+[2025-12-31T14:41:07.676Z] ERROR: ❌ Friends bot error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+[2025-12-31T14:42:37.093Z] INFO: 🤝 Friends bot started
+[2025-12-31T14:42:40.810Z] INFO: 🔗 Opening users page
+[2025-12-31T14:42:44.960Z] INFO: ℹ️ No friend buttons found
+[2025-12-31T14:42:46.029Z] INFO: 🤝 Friends bot closed browser
+[2025-12-31T14:43:34.052Z] INFO: 🔐 Login bot started for undefined
+[2025-12-31T14:43:38.564Z] INFO: 🔗 Opening login page
+[2025-12-31T14:43:38.600Z] ERROR: ❌ Login bot error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+[2025-12-31T14:44:48.345Z] INFO: 🔐 Login bot started for undefined
+[2025-12-31T14:44:51.030Z] INFO: 🔗 Opening login page
+[2025-12-31T14:44:55.507Z] INFO: ✍️ Filling login form
+[2025-12-31T14:44:55.533Z] ERROR: ❌ Login bot error: text is not iterable
+[2025-12-31T14:44:56.172Z] INFO: 🔐 Login bot finished
+[2025-12-31T14:45:42.123Z] INFO: 🔐 Login bot started for undefined
+[2025-12-31T14:45:46.093Z] INFO: 🔗 Opening login page
+[2025-12-31T14:45:50.388Z] ERROR: ❌ Login bot error: text is not iterable
+[2025-12-31T14:46:41.024Z] INFO: 📝 Post bot started
+[2025-12-31T14:46:44.967Z] ERROR: ❌ Post bot error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+[2025-12-31T14:48:16.785Z] INFO: 📝 Post bot started
+[2025-12-31T14:48:33.120Z] INFO: 🔗 Opening create post page
+[2025-12-31T14:48:38.090Z] ERROR: ❌ Post bot error: ❌ Post form not found (maybe not logged in)
+[2025-12-31T14:48:39.273Z] INFO: 📝 Post bot finished
+[2025-12-31T15:02:01.982Z] INFO: 🤝 Friends bot started
+[2025-12-31T15:02:05.796Z] INFO: 🔗 Opening users page
+[2025-12-31T15:02:20.586Z] INFO: ℹ️ No follow/unfollow buttons found
+[2025-12-31T15:02:21.218Z] INFO: 🤝 Friends bot closed browser
+[2025-12-31T15:59:29.058Z] INFO: ⚙️ Cron started in DEV MODE
+[2025-12-31T15:59:29.106Z] INFO: 🧪 DEV: Running Account Bot immediately
+[2025-12-31T15:59:29.109Z] INFO: 👤 Account bot started
+[2025-12-31T15:59:29.194Z] INFO: ⏳ Cron jobs scheduled
+[2025-12-31T15:59:32.733Z] INFO: 🔗 Opening register page
+[2025-12-31T15:59:37.115Z] INFO: ✍️ Filling registration form
+[2025-12-31T15:59:48.628Z] INFO: ✅ Account created successfully: ana.kuphal@hotmail.com
+[2025-12-31T15:59:49.322Z] INFO: 👤 Account bot finished
+[2025-12-31T16:00:00.020Z] INFO: 🧪 DEV: Running Account Bot
+[2025-12-31T16:00:00.024Z] INFO: 👤 Account bot started
+[2025-12-31T16:00:00.035Z] INFO: 🧪 DEV: Running Post Bot
+[2025-12-31T16:00:00.042Z] INFO: 📝 Post bot started using account: ana.kuphal@hotmail.com
+[2025-12-31T16:00:00.051Z] INFO: 🧪 DEV: Running Friends Bot
+[2025-12-31T16:00:00.058Z] INFO: 🤝 Friends bot started using account: ana.kuphal@hotmail.com
+[2025-12-31T16:00:04.118Z] INFO: 🔗 Opening register page
+[2025-12-31T16:00:04.303Z] INFO: 🔐 Login bot started for ana.kuphal@hotmail.com
+[2025-12-31T16:00:04.509Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T16:00:09.269Z] INFO: 🔐 Login bot started for ana.kuphal@hotmail.com
+[2025-12-31T16:00:15.943Z] INFO: ✍️ Filling registration form
+[2025-12-31T16:00:19.942Z] INFO: ✍️ Filling login form
+[2025-12-31T16:00:21.845Z] INFO: ✍️ Filling login form
+[2025-12-31T16:00:42.189Z] INFO: ✅ Account created successfully: marley.feil18@hotmail.com
+[2025-12-31T16:00:43.901Z] INFO: ✅ Logged in and cookies saved
+[2025-12-31T16:00:43.933Z] INFO: ✅ Logged in and cookies saved
+[2025-12-31T16:00:48.964Z] INFO: 👤 Account bot finished
+[2025-12-31T16:00:56.308Z] INFO: 🔐 Login bot finished
+[2025-12-31T16:00:56.311Z] INFO: 🔗 Opening users page
+[2025-12-31T16:00:56.612Z] INFO: 🔐 Login bot finished
+[2025-12-31T16:00:56.615Z] INFO: 🔗 Opening create post page
+[2025-12-31T16:00:59.841Z] INFO: ℹ️ No follow/unfollow buttons found
+[2025-12-31T16:01:00.261Z] ERROR: ❌ Post bot error: ❌ Post form not found (maybe not logged in)
+[2025-12-31T16:01:00.321Z] INFO: 🧪 DEV: Running Friends Bot
+[2025-12-31T16:01:00.325Z] INFO: 🤝 Friends bot started using account: marley.feil18@hotmail.com
+[2025-12-31T16:01:01.556Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T16:01:01.856Z] INFO: 🤝 Friends bot closed browser
+[2025-12-31T16:01:02.111Z] INFO: 📝 Post bot finished
+[2025-12-31T16:01:03.776Z] INFO: 🔐 Login bot started for marley.feil18@hotmail.com
+[2025-12-31T16:01:09.373Z] INFO: ✍️ Filling login form
+[2025-12-31T16:01:18.923Z] INFO: ✅ Logged in and cookies saved
+[2025-12-31T16:01:26.820Z] INFO: 🔐 Login bot finished
+[2025-12-31T16:01:26.823Z] INFO: 🔗 Opening users page
+[2025-12-31T16:01:30.630Z] INFO: ℹ️ No follow/unfollow buttons found
+[2025-12-31T16:01:31.196Z] INFO: 🤝 Friends bot closed browser
+[2025-12-31T16:02:00.870Z] INFO: 🧪 DEV: Running Post Bot
+[2025-12-31T16:02:00.873Z] INFO: 📝 Post bot started using account: marley.feil18@hotmail.com
+[2025-12-31T16:02:00.880Z] INFO: 🧪 DEV: Running Friends Bot
+[2025-12-31T16:02:00.882Z] INFO: 🤝 Friends bot started using account: ana.kuphal@hotmail.com
+[2025-12-31T16:02:02.030Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T16:02:04.357Z] INFO: 🔐 Login bot started for ana.kuphal@hotmail.com
+[2025-12-31T16:02:04.441Z] INFO: 🔐 Login bot started for marley.feil18@hotmail.com
+[2025-12-31T16:10:53.404Z] INFO: ⚙️ Cron started in DEV MODE
+[2025-12-31T16:10:53.447Z] INFO: 🧪 DEV: Running Account Bot immediately
+[2025-12-31T16:10:53.450Z] INFO: 👤 Account bot started
+[2025-12-31T16:10:53.544Z] INFO: ⏳ Cron jobs scheduled
+[2025-12-31T16:10:56.958Z] INFO: 🔗 Opening register page
+[2025-12-31T16:11:00.642Z] INFO: 🧪 DEV: Running Friends Bot
+[2025-12-31T16:11:00.648Z] INFO: 🤝 Friends bot started using account: ana.kuphal@hotmail.com
+[2025-12-31T16:11:02.247Z] INFO: ✍️ Filling registration form
+[2025-12-31T16:11:04.436Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T16:11:05.321Z] ERROR: ❌ Friends bot error: Account not found
+[2025-12-31T16:11:06.059Z] INFO: 🤝 Friends bot closed browser
+[2025-12-31T16:11:17.282Z] INFO: ✅ Account created successfully: karl_botsford-kertzmann23@yahoo.com
+[2025-12-31T16:11:17.959Z] INFO: 👤 Account bot finished
+[2025-12-31T16:12:00.701Z] INFO: 🧪 DEV: Running Post Bot
+[2025-12-31T16:12:00.705Z] INFO: 📝 Post bot started using account: karl_botsford-kertzmann23@yahoo.com
+[2025-12-31T16:12:00.711Z] INFO: 🧪 DEV: Running Friends Bot
+[2025-12-31T16:12:00.713Z] INFO: 🤝 Friends bot started using account: ana.kuphal@hotmail.com
+[2025-12-31T16:12:02.343Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T16:12:04.235Z] ERROR: ❌ Friends bot error: Account not found
+[2025-12-31T16:12:04.340Z] INFO: 🔐 Login on same page for karl_botsford-kertzmann23@yahoo.com
+[2025-12-31T16:12:05.030Z] INFO: 🤝 Friends bot closed browser
+[2025-12-31T16:12:19.118Z] INFO: ✅ Logged in & cookies saved
+[2025-12-31T16:12:19.120Z] INFO: 🔗 Opening new post page
+[2025-12-31T16:12:21.365Z] INFO: ✍️ Writing post...
+[2025-12-31T16:12:32.340Z] ERROR: ❌ Post bot error: page.waitForTimeout is not a function
+[2025-12-31T16:12:33.038Z] INFO: 📝 Post bot finished
+[2025-12-31T16:14:54.215Z] INFO: ⚙️ Cron started in DEV MODE
+[2025-12-31T16:14:54.238Z] INFO: 🧪 DEV: Running Account Bot immediately
+[2025-12-31T16:14:54.242Z] INFO: 👤 Account bot started
+[2025-12-31T16:14:54.355Z] INFO: ⏳ Cron jobs scheduled
+[2025-12-31T16:14:58.386Z] INFO: 🔗 Opening register page
+[2025-12-31T16:15:00.737Z] INFO: 🧪 DEV: Running Account Bot
+[2025-12-31T16:15:00.743Z] INFO: 👤 Account bot started
+[2025-12-31T16:15:00.782Z] INFO: 🧪 DEV: Running Friends Bot
+[2025-12-31T16:15:00.846Z] INFO: 🤝 Friends bot started using account: ana.kuphal@hotmail.com
+[2025-12-31T16:15:03.303Z] INFO: ✍️ Filling registration form
+[2025-12-31T16:15:09.587Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T16:15:09.755Z] INFO: 🔗 Opening register page
+[2025-12-31T16:15:09.784Z] ERROR: ❌ Friends bot error: Account not found
+[2025-12-31T16:15:12.307Z] INFO: 🤝 Friends bot closed browser
+[2025-12-31T16:15:13.983Z] INFO: ✍️ Filling registration form
+[2025-12-31T16:15:23.988Z] INFO: ✅ Account created successfully: berenice_sanford-jacobson@yahoo.com
+[2025-12-31T16:15:24.871Z] INFO: 👤 Account bot finished
+[2025-12-31T16:15:25.682Z] INFO: ✅ Account created successfully: alessandro27@hotmail.com
+[2025-12-31T16:15:26.301Z] INFO: 👤 Account bot finished
+[2025-12-31T16:16:00.862Z] INFO: 🧪 DEV: Running Post Bot
+[2025-12-31T16:16:00.866Z] INFO: 📝 Post bot started using account: karl_botsford-kertzmann23@yahoo.com
+[2025-12-31T16:16:00.871Z] INFO: 🧪 DEV: Running Friends Bot
+[2025-12-31T16:16:00.874Z] INFO: 🤝 Friends bot started using account: marley.feil18@hotmail.com
+[2025-12-31T16:16:01.976Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T16:16:04.551Z] ERROR: ❌ Friends bot error: Account not found
+[2025-12-31T16:16:04.559Z] INFO: 🔐 Login on same page for karl_botsford-kertzmann23@yahoo.com
+[2025-12-31T16:16:05.267Z] INFO: 🤝 Friends bot closed browser
+[2025-12-31T16:16:13.619Z] INFO: ✅ Logged in using cookies
+[2025-12-31T16:16:13.622Z] INFO: 🔗 Opening new post page
+[2025-12-31T16:16:16.112Z] INFO: ✍️ Writing post...
+[2025-12-31T16:16:25.540Z] ERROR: ❌ Post bot error: page.waitForTimeout is not a function
+[2025-12-31T16:16:26.160Z] INFO: 📝 Post bot finished
+[2025-12-31T16:26:51.487Z] INFO: ⚙️ Cron started in DEV MODE
+[2025-12-31T16:26:51.511Z] INFO: 🧪 DEV: Running Account Bot immediately
+[2025-12-31T16:26:51.516Z] INFO: 👤 Account bot started
+[2025-12-31T16:26:51.607Z] INFO: ⏳ Cron jobs scheduled
+[2025-12-31T16:26:56.131Z] INFO: 🔗 Opening register page
+[2025-12-31T16:27:00.166Z] INFO: ✍️ Filling registration form
+[2025-12-31T16:27:00.222Z] INFO: 🧪 DEV: Running Friends Bot
+[2025-12-31T16:27:00.231Z] INFO: 🤝 Friends bot started using account: ana.kuphal@hotmail.com
+[2025-12-31T16:27:02.980Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T16:27:04.943Z] ERROR: ❌ Friends bot error: Account not found
+[2025-12-31T16:27:05.746Z] INFO: 🤝 Friends bot closed browser
+[2025-12-31T16:27:13.487Z] INFO: ✅ Account created successfully: phyllis.hayes@yahoo.com
+[2025-12-31T16:27:14.060Z] INFO: 👤 Account bot finished
+[2025-12-31T16:28:00.571Z] INFO: 🧪 DEV: Running Post Bot
+[2025-12-31T16:28:00.584Z] INFO: 📝 Post bot started using account: marley.feil18@hotmail.com
+[2025-12-31T16:28:00.603Z] INFO: 🧪 DEV: Running Friends Bot
+[2025-12-31T16:28:00.611Z] INFO: 🤝 Friends bot started using account: alessandro27@hotmail.com
+[2025-12-31T16:28:03.968Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T16:28:04.852Z] ERROR: ❌ Friends bot error: Account not found
+[2025-12-31T16:28:04.972Z] INFO: 🔐 Login on same page for marley.feil18@hotmail.com
+[2025-12-31T16:28:05.608Z] INFO: 🤝 Friends bot closed browser
+[2025-12-31T16:28:12.355Z] INFO: ✅ Logged in using cookies
+[2025-12-31T16:28:12.358Z] INFO: 🔗 Opening new post page
+[2025-12-31T16:28:14.622Z] INFO: ✍️ Writing post...
+[2025-12-31T16:28:28.004Z] INFO: ✅ Post published successfully
+[2025-12-31T16:28:28.631Z] INFO: 📝 Post bot finished
+[2025-12-31T16:47:40.874Z] INFO: ⚙️ Cron started in DEV MODE
+[2025-12-31T16:47:40.920Z] INFO: 🧪 DEV: Running Account Bot immediately
+[2025-12-31T16:47:40.923Z] INFO: 👤 Account bot started
+[2025-12-31T16:47:41.012Z] INFO: ⏳ Cron jobs scheduled
+[2025-12-31T16:47:44.577Z] INFO: 🔗 Opening register page
+[2025-12-31T16:47:48.504Z] INFO: ✍️ Filling registration form
+[2025-12-31T16:47:58.748Z] INFO: ✅ Account created successfully: rolando76@gmail.com
+[2025-12-31T16:47:59.424Z] INFO: 👤 Account bot finished
+[2025-12-31T16:48:00.218Z] INFO: 🧪 DEV: Running Post Bot
+[2025-12-31T16:48:00.223Z] INFO: 📝 Post bot started using account: phyllis.hayes@yahoo.com
+[2025-12-31T16:48:00.308Z] INFO: 🧪 DEV: Running Friends Bot
+[2025-12-31T16:48:00.318Z] INFO: 🤝 Friends bot started using account: alessandro27@hotmail.com
+[2025-12-31T16:48:03.101Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T16:48:05.535Z] INFO: 🔐 Login on same page for phyllis.hayes@yahoo.com
+[2025-12-31T16:48:05.544Z] INFO: 🔐 Login on same page for alessandro27@hotmail.com
+[2025-12-31T16:48:18.652Z] INFO: ✅ Logged in & cookies saved
+[2025-12-31T16:48:18.663Z] INFO: 🔗 Opening users page
+[2025-12-31T16:48:19.478Z] INFO: ✅ Logged in & cookies saved
+[2025-12-31T16:48:19.513Z] INFO: 🔗 Opening new post page
+[2025-12-31T16:48:21.007Z] INFO: ℹ️ No follow buttons found
+[2025-12-31T16:48:21.931Z] INFO: ✍️ Writing post...
+[2025-12-31T16:48:21.945Z] INFO: 🤝 Friends bot closed browser
+[2025-12-31T16:48:34.152Z] INFO: 🖼️ Uploading image...
+[2025-12-31T16:48:39.619Z] INFO: ✅ Post published successfully
+[2025-12-31T16:48:40.231Z] INFO: 📝 Post bot finished
+[2025-12-31T16:49:01.890Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T16:52:24.384Z] INFO: ⚙️ Cron started in DEV MODE
+[2025-12-31T16:52:24.406Z] INFO: 🧪 DEV: Running Account Bot immediately
+[2025-12-31T16:52:24.411Z] INFO: 👤 Account bot started
+[2025-12-31T16:52:24.484Z] INFO: ⏳ Cron jobs scheduled
+[2025-12-31T16:52:29.510Z] INFO: 🔗 Opening register page
+[2025-12-31T16:52:34.728Z] INFO: ✍️ Filling registration form
+[2025-12-31T16:52:51.497Z] INFO: ✅ Account created successfully: salvador.schmitt@gmail.com
+[2025-12-31T16:52:52.585Z] INFO: 👤 Account bot finished
+[2025-12-31T16:53:00.886Z] INFO: 🧪 DEV: Running Friends Bot
+[2025-12-31T16:53:00.892Z] INFO: 🤝 Friends bot started using account: salvador.schmitt@gmail.com
+[2025-12-31T16:53:03.863Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T16:53:06.147Z] INFO: 🔐 Login on same page for salvador.schmitt@gmail.com
+[2025-12-31T16:53:20.070Z] INFO: ✅ Logged in & cookies saved
+[2025-12-31T16:53:20.077Z] INFO: 🔗 Opening users page
+[2025-12-31T16:53:22.338Z] INFO: ℹ️ No follow buttons found
+[2025-12-31T16:53:23.105Z] INFO: 🤝 Friends bot closed browser
+[2025-12-31T17:15:08.633Z] INFO: ⚙️ Cron started in DEV MODE
+[2025-12-31T17:15:08.681Z] INFO: 🧪 DEV: Running Account Bot immediately
+[2025-12-31T17:15:08.685Z] INFO: 👤 Account bot started
+[2025-12-31T17:15:08.849Z] INFO: ⏳ Cron jobs scheduled
+[2025-12-31T17:15:14.344Z] INFO: 🔗 Opening register page
+[2025-12-31T17:15:21.607Z] INFO: ✍️ Filling registration form
+[2025-12-31T17:15:40.077Z] INFO: ✅ Account created successfully: allene46@gmail.com
+[2025-12-31T17:15:40.112Z] ERROR: ❌ Account bot error: Unexpected end of JSON input
+[2025-12-31T17:15:48.229Z] INFO: 👤 Account bot finished
+[2025-12-31T18:25:49.750Z] INFO: ⚙️ Cron started in DEV MODE
+[2025-12-31T18:25:49.796Z] INFO: 🧪 DEV: Running Account Bot immediately
+[2025-12-31T18:25:49.800Z] INFO: 👤 Account bot started
+[2025-12-31T18:25:49.907Z] INFO: ⏳ Cron jobs scheduled
+[2025-12-31T18:25:53.872Z] INFO: 🔗 Opening register page
+[2025-12-31T18:26:04.892Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T18:26:05.967Z] INFO: ✍️ Filling registration form
+[2025-12-31T18:26:17.751Z] INFO: ✅ Account created successfully: graciela93@yahoo.com
+[2025-12-31T18:26:17.757Z] ERROR: ❌ Account bot error: email is not defined
+[2025-12-31T18:26:18.446Z] INFO: 👤 Account bot finished
+[2025-12-31T18:28:03.680Z] INFO: ⚙️ Cron started in DEV MODE
+[2025-12-31T18:28:03.698Z] INFO: 🧪 DEV: Running Account Bot immediately
+[2025-12-31T18:28:03.701Z] INFO: 👤 Account bot started
+[2025-12-31T18:28:03.765Z] INFO: ⏳ Cron jobs scheduled
+[2025-12-31T18:28:06.413Z] INFO: 🔗 Opening register page
+[2025-12-31T18:28:12.740Z] INFO: ✍️ Filling registration form
+[2025-12-31T18:28:24.320Z] INFO: ✅ Account created successfully: janelle.wilderman@gmail.com
+[2025-12-31T18:28:24.946Z] INFO: 👤 Account bot finished
+[2025-12-31T18:29:00.455Z] INFO: 🧪 DEV: Running Friends Bot
+[2025-12-31T18:29:00.459Z] INFO: 🤝 Friends bot started using account: marley.feil18@hotmail.com
+[2025-12-31T18:29:02.608Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T18:29:03.656Z] INFO: 🔐 Login on same page for marley.feil18@hotmail.com
+[2025-12-31T18:30:00.769Z] INFO: 🧪 DEV: Running Account Bot
+[2025-12-31T18:30:00.772Z] INFO: 👤 Account bot started
+[2025-12-31T18:30:00.818Z] INFO: 🧪 DEV: Running Post Bot
+[2025-12-31T18:30:00.828Z] INFO: 📝 Post bot started using account: phyllis.hayes@yahoo.com
+[2025-12-31T18:30:00.880Z] INFO: 🧪 DEV: Running Friends Bot
+[2025-12-31T18:30:00.889Z] INFO: 🤝 Friends bot started using account: janelle.wilderman@gmail.com
+[2025-12-31T18:30:04.006Z] ERROR: ❌ Friends bot error: Navigation timeout of 60000 ms exceeded
+[2025-12-31T18:30:07.228Z] INFO: 🔐 Login on same page for phyllis.hayes@yahoo.com
+[2025-12-31T18:30:07.263Z] INFO: 🔐 Login on same page for janelle.wilderman@gmail.com
+[2025-12-31T18:30:07.322Z] INFO: 🔗 Opening register page
+[2025-12-31T18:30:08.049Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T18:30:08.630Z] INFO: 🤝 Friends bot closed browser
+[2025-12-31T18:32:58.424Z] INFO: ⚙️ Cron started in DEV MODE
+[2025-12-31T18:32:58.445Z] INFO: 🧪 DEV: Running Account Bot immediately
+[2025-12-31T18:32:58.448Z] INFO: 👤 Account bot started
+[2025-12-31T18:32:58.512Z] INFO: ⏳ Cron jobs scheduled
+[2025-12-31T18:33:00.659Z] INFO: 🧪 DEV: Running Friends Bot
+[2025-12-31T18:33:00.676Z] INFO: 🤝 Friends bot started using account: berenice_sanford-jacobson@yahoo.com
+[2025-12-31T18:33:02.188Z] INFO: 🔗 Opening register page
+[2025-12-31T18:33:04.191Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T18:33:04.608Z] INFO: 🔐 Login on same page for berenice_sanford-jacobson@yahoo.com
+[2025-12-31T18:33:19.128Z] INFO: ✍️ Filling registration form
+[2025-12-31T18:33:33.028Z] INFO: ✅ Account created successfully: sylvia66@yahoo.com
+[2025-12-31T18:33:33.881Z] INFO: 👤 Account bot finished
+[2025-12-31T18:33:41.433Z] INFO: ✅ Logged in & cookies saved
+[2025-12-31T18:33:41.436Z] INFO: 🔗 Opening users page
+[2025-12-31T18:33:43.753Z] INFO: ℹ️ No profile links found
+[2025-12-31T18:33:44.373Z] INFO: 🤝 Friends bot closed browser
+[2025-12-31T18:39:19.969Z] INFO: ⚙️ Cron started in DEV MODE
+[2025-12-31T18:39:20.020Z] INFO: 🧪 DEV: Running Account Bot immediately
+[2025-12-31T18:39:20.024Z] INFO: 👤 Account bot started
+[2025-12-31T18:39:20.123Z] INFO: ⏳ Cron jobs scheduled
+[2025-12-31T18:39:24.262Z] INFO: 🔗 Opening register page
+[2025-12-31T18:39:33.739Z] INFO: ✍️ Filling registration form
+[2025-12-31T18:39:46.561Z] INFO: ✅ Account created successfully: earnestine_predovic-kuhn@yahoo.com
+[2025-12-31T18:39:47.257Z] INFO: 👤 Account bot finished
+[2025-12-31T18:40:00.562Z] INFO: 🧪 DEV: Running Account Bot
+[2025-12-31T18:40:00.566Z] INFO: 👤 Account bot started
+[2025-12-31T18:40:00.575Z] INFO: 🧪 DEV: Running Post Bot
+[2025-12-31T18:40:00.579Z] INFO: 📝 Post bot started using account: marley.feil18@hotmail.com
+[2025-12-31T18:40:00.586Z] INFO: 🧪 DEV: Running Friends Bot
+[2025-12-31T18:40:00.591Z] INFO: 🤝 Friends bot started using account: janelle.wilderman@gmail.com
+[2025-12-31T18:40:03.529Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T18:40:07.077Z] INFO: 🔐 Login on same page for janelle.wilderman@gmail.com
+[2025-12-31T18:40:07.098Z] INFO: 🔐 Login on same page for marley.feil18@hotmail.com
+[2025-12-31T18:40:07.506Z] INFO: 🔗 Opening register page
+[2025-12-31T18:41:00.107Z] INFO: 🧪 DEV: Running Friends Bot
+[2025-12-31T18:41:00.110Z] INFO: 🤝 Friends bot started using account: phyllis.hayes@yahoo.com
+[2025-12-31T18:41:07.257Z] ERROR: ❌ Post bot error: Navigation timeout of 60000 ms exceeded
+[2025-12-31T18:41:07.827Z] INFO: 🔐 Login on same page for phyllis.hayes@yahoo.com
+[2025-12-31T18:41:08.160Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T18:41:08.361Z] INFO: ✍️ Filling registration form
+[2025-12-31T18:41:09.378Z] INFO: 📝 Post bot finished
+[2025-12-31T18:42:00.531Z] INFO: 🧪 DEV: Running Post Bot
+[2025-12-31T18:42:00.534Z] INFO: 📝 Post bot started using account: alessandro27@hotmail.com
+[2025-12-31T18:42:00.546Z] INFO: 🧪 DEV: Running Friends Bot
+[2025-12-31T18:42:00.549Z] INFO: 🤝 Friends bot started using account: marley.feil18@hotmail.com
+[2025-12-31T18:42:08.071Z] INFO: ✅ Account created successfully: marina33@yahoo.com
+[2025-12-31T18:42:13.314Z] WARN: ⚠️ KeepAlive ping failed
+[2025-12-31T18:42:19.070Z] INFO: 🔐 Login on same page for marley.feil18@hotmail.com
+[2025-12-31T18:42:19.135Z] INFO: 🔐 Login on same page for alessandro27@hotmail.com
+[2025-12-31T18:42:19.389Z] INFO: ✅ Logged in & cookies saved
+[2025-12-31T18:42:19.405Z] INFO: 🔗 Opening users page
+[2025-12-31T18:42:22.704Z] INFO: 👤 Account bot finished
+[2025-12-31T18:42:48.454Z] ERROR: ❌ Post bot error: net::ERR_NETWORK_CHANGED at https://mava-b838.onrender.com/
+[2025-12-31T18:42:50.473Z] ERROR: ❌ Friends bot error: net::ERR_NETWORK_CHANGED at https://mava-b838.onrender.com/
+[2025-12-31T18:42:52.416Z] INFO: 🤝 Friends bot closed browser
+[2025-12-31T18:42:52.876Z] INFO: 📝 Post bot finished
+[2025-12-31T18:42:59.310Z] ERROR: ❌ Friends bot error: net::ERR_NETWORK_CHANGED at https://mava-b838.onrender.com/users
+[2025-12-31T18:43:00.078Z] INFO: ✅ Logged in using cookies
+[2025-12-31T18:43:00.088Z] INFO: 🔗 Opening users page
+[2025-12-31T18:43:00.647Z] INFO: 🧪 DEV: Running Friends Bot
+[2025-12-31T18:43:00.661Z] INFO: 🤝 Friends bot started using account: allene46@gmail.com
+[2025-12-31T18:43:00.696Z] WARN: ⚠️ KeepAlive ping failed
+[2025-12-31T18:43:06.573Z] INFO: 🔐 Login on same page for allene46@gmail.com
+[2025-12-31T18:43:06.857Z] ERROR: ❌ Friends bot error: net::ERR_INTERNET_DISCONNECTED at https://mava-b838.onrender.com/auth/login
+[2025-12-31T18:43:09.869Z] ERROR: ❌ Friends bot error: net::ERR_INTERNET_DISCONNECTED at https://mava-b838.onrender.com/users
+[2025-12-31T18:43:13.184Z] INFO: 🤝 Friends bot closed browser
+[2025-12-31T18:43:13.846Z] INFO: 🤝 Friends bot closed browser
+[2025-12-31T18:43:14.744Z] INFO: 🤝 Friends bot closed browser
+[2025-12-31T18:44:00.808Z] INFO: 🧪 DEV: Running Post Bot
+[2025-12-31T18:44:00.810Z] INFO: 📝 Post bot started using account: alessandro27@hotmail.com
+[2025-12-31T18:44:00.815Z] INFO: 🧪 DEV: Running Friends Bot
+[2025-12-31T18:44:00.817Z] INFO: 🤝 Friends bot started using account: berenice_sanford-jacobson@yahoo.com
+[2025-12-31T18:44:00.823Z] WARN: ⚠️ KeepAlive ping failed
+[2025-12-31T18:44:04.281Z] INFO: 🔐 Login on same page for berenice_sanford-jacobson@yahoo.com
+[2025-12-31T18:44:04.297Z] INFO: 🔐 Login on same page for alessandro27@hotmail.com
+[2025-12-31T18:44:04.432Z] ERROR: ❌ Friends bot error: net::ERR_NAME_NOT_RESOLVED at https://mava-b838.onrender.com/
+[2025-12-31T18:44:04.518Z] ERROR: ❌ Post bot error: net::ERR_NAME_NOT_RESOLVED at https://mava-b838.onrender.com/
+[2025-12-31T18:44:05.809Z] INFO: 🤝 Friends bot closed browser
+[2025-12-31T18:44:06.052Z] INFO: 📝 Post bot finished
+[2025-12-31T18:45:00.553Z] WARN: ⚠️ KeepAlive ping failed
+[2025-12-31T18:45:00.581Z] INFO: 🧪 DEV: Running Account Bot
+[2025-12-31T18:45:00.584Z] INFO: 👤 Account bot started
+[2025-12-31T18:45:00.592Z] INFO: 🧪 DEV: Running Friends Bot
+[2025-12-31T18:45:00.595Z] INFO: 🤝 Friends bot started using account: karl_botsford-kertzmann23@yahoo.com
+[2025-12-31T18:45:03.894Z] INFO: 🔐 Login on same page for karl_botsford-kertzmann23@yahoo.com
+[2025-12-31T18:45:03.990Z] INFO: 🔗 Opening register page
+[2025-12-31T18:45:04.063Z] ERROR: ❌ Friends bot error: net::ERR_INTERNET_DISCONNECTED at https://mava-b838.onrender.com/
+[2025-12-31T18:45:04.089Z] ERROR: ❌ Account bot error: net::ERR_INTERNET_DISCONNECTED at https://mava-b838.onrender.com/auth/register
+[2025-12-31T18:45:05.520Z] INFO: 🤝 Friends bot closed browser
+[2025-12-31T18:45:05.868Z] INFO: 👤 Account bot finished
+[2025-12-31T18:47:03.474Z] INFO: ⚙️ Cron started in DEV MODE
+[2025-12-31T18:47:03.491Z] INFO: 🧪 DEV: Running Account Bot immediately
+[2025-12-31T18:47:03.494Z] INFO: 👤 Account bot started
+[2025-12-31T18:47:03.583Z] INFO: ⏳ Cron jobs scheduled
+[2025-12-31T18:47:05.980Z] INFO: 🔗 Opening register page
+[2025-12-31T18:47:09.849Z] INFO: ✍️ Filling registration form
+[2025-12-31T18:47:20.604Z] INFO: ✅ Account created successfully: ottilie.collier@hotmail.com
+[2025-12-31T18:47:21.251Z] INFO: 👤 Account bot finished
+[2025-12-31T18:48:00.121Z] INFO: 🧪 DEV: Running Post Bot
+[2025-12-31T18:48:00.126Z] INFO: 📝 Post bot started using account: marley.feil18@hotmail.com
+[2025-12-31T18:48:00.131Z] INFO: 🧪 DEV: Running Friends Bot
+[2025-12-31T18:48:00.134Z] INFO: 🤝 Friends bot started using account: ana.kuphal@hotmail.com
+[2025-12-31T18:48:02.591Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T18:48:04.805Z] INFO: 🔐 Login on same page for marley.feil18@hotmail.com
+[2025-12-31T18:48:04.858Z] INFO: 🔐 Login on same page for ana.kuphal@hotmail.com
+[2025-12-31T18:48:12.090Z] INFO: ✅ Logged in using cookies
+[2025-12-31T18:48:12.094Z] INFO: 🔗 Opening users page
+[2025-12-31T18:48:12.190Z] INFO: ✅ Logged in using cookies
+[2025-12-31T18:48:12.197Z] INFO: 🔗 Opening new post page
+[2025-12-31T18:48:14.566Z] INFO: ✍️ Writing post...
+[2025-12-31T18:48:24.446Z] ERROR: ❌ Friends bot error: Waiting for selector `a[href^="/users/"]` failed
+[2025-12-31T18:48:25.433Z] INFO: 🖼️ Uploading image...
+[2025-12-31T18:48:27.187Z] INFO: 🤝 Friends bot closed browser
+[2025-12-31T18:48:30.362Z] INFO: ✅ Post published successfully
+[2025-12-31T18:48:31.348Z] INFO: 📝 Post bot finished
+[2025-12-31T18:53:01.109Z] INFO: ⚙️ Cron started in DEV MODE
+[2025-12-31T18:53:01.126Z] INFO: 🧪 DEV: Running Account Bot immediately
+[2025-12-31T18:53:01.128Z] INFO: 👤 Account bot started
+[2025-12-31T18:53:01.194Z] INFO: ⏳ Cron jobs scheduled
+[2025-12-31T18:53:03.870Z] INFO: 🔗 Opening register page
+[2025-12-31T18:53:09.255Z] INFO: ✍️ Filling registration form
+[2025-12-31T18:53:19.885Z] INFO: ✅ Account created successfully: dannie_oconnell@yahoo.com
+[2025-12-31T18:53:20.520Z] INFO: 👤 Account bot finished
+[2025-12-31T18:54:00.824Z] INFO: 🧪 DEV: Running Post Bot
+[2025-12-31T18:54:00.828Z] INFO: 📝 Post bot started using account: janelle.wilderman@gmail.com
+[2025-12-31T18:54:00.860Z] INFO: 🧪 DEV: Running Friends Bot
+[2025-12-31T18:54:00.865Z] INFO: 🤝 Friends bot started using account: salvador.schmitt@gmail.com
+[2025-12-31T18:54:04.931Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T18:54:05.043Z] INFO: 🔐 Login on same page for janelle.wilderman@gmail.com
+[2025-12-31T18:54:05.162Z] INFO: 🔐 Login on same page for salvador.schmitt@gmail.com
+[2025-12-31T18:54:30.443Z] INFO: ✅ Logged in using cookies
+[2025-12-31T18:54:30.447Z] INFO: 🔗 Opening users page
+[2025-12-31T18:54:30.484Z] INFO: ✅ Logged in using cookies
+[2025-12-31T18:54:30.488Z] INFO: 🔗 Opening new post page
+[2025-12-31T18:54:33.214Z] INFO: ✍️ Writing post...
+[2025-12-31T18:54:46.045Z] INFO: 🖼️ Uploading image...
+[2025-12-31T18:54:47.717Z] ERROR: ❌ Friends bot error: Waiting for selector `a[href^="/users/"]` failed
+[2025-12-31T18:54:48.403Z] INFO: 🤝 Friends bot closed browser
+[2025-12-31T18:54:51.440Z] INFO: ✅ Post published successfully
+[2025-12-31T18:54:52.094Z] INFO: 📝 Post bot finished
+[2025-12-31T19:03:52.857Z] INFO: ⚙️ Cron started in DEV MODE
+[2025-12-31T19:03:52.877Z] INFO: 🧪 DEV: Running Account Bot immediately
+[2025-12-31T19:03:52.880Z] INFO: 👤 Account bot started
+[2025-12-31T19:03:52.952Z] INFO: ⏳ Cron jobs scheduled
+[2025-12-31T19:03:55.497Z] INFO: 🔗 Opening register page
+[2025-12-31T19:04:00.083Z] INFO: 🧪 DEV: Running Post Bot
+[2025-12-31T19:04:00.096Z] INFO: 📝 Post bot started using account: janelle.wilderman@gmail.com
+[2025-12-31T19:04:00.106Z] INFO: 🧪 DEV: Running Friends Bot
+[2025-12-31T19:04:00.195Z] INFO: 🤝 Friends bot started using account: karl_botsford-kertzmann23@yahoo.com
+[2025-12-31T19:04:01.753Z] INFO: ✍️ Filling registration form
+[2025-12-31T19:04:05.660Z] ERROR: ❌ Friends bot error: invalid json response body at https://mava-b838.onrender.com/auth/login reason: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+[2025-12-31T19:04:06.033Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T19:04:06.518Z] INFO: 🔐 Login on same page for janelle.wilderman@gmail.com
+[2025-12-31T19:04:28.253Z] INFO: ✅ Account created successfully: ivory54@gmail.com
+[2025-12-31T19:04:29.162Z] INFO: 👤 Account bot finished
+[2025-12-31T19:04:34.318Z] INFO: ✅ Logged in using cookies
+[2025-12-31T19:04:34.320Z] INFO: 🔗 Opening new post page
+[2025-12-31T19:04:38.446Z] INFO: ✍️ Writing post...
+[2025-12-31T19:04:51.002Z] INFO: 🖼️ Uploading image...
+[2025-12-31T19:04:56.406Z] INFO: ✅ Post published successfully
+[2025-12-31T19:04:57.068Z] INFO: 📝 Post bot finished
+[2025-12-31T19:05:00.038Z] INFO: 🧪 DEV: Running Account Bot
+[2025-12-31T19:05:00.041Z] INFO: 👤 Account bot started
+[2025-12-31T19:05:00.458Z] INFO: 🧪 DEV: Running Friends Bot
+[2025-12-31T19:05:00.460Z] INFO: 🤝 Friends bot started using account: janelle.wilderman@gmail.com
+[2025-12-31T19:05:01.368Z] ERROR: ❌ Friends bot error: invalid json response body at https://mava-b838.onrender.com/auth/login reason: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+[2025-12-31T19:05:01.523Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T19:05:03.019Z] INFO: 🔗 Opening register page
+[2025-12-31T19:08:37.687Z] INFO: ⚙️ Cron started in DEV MODE
+[2025-12-31T19:08:37.707Z] INFO: 🧪 DEV: Running Account Bot immediately
+[2025-12-31T19:08:37.711Z] INFO: 👤 Account bot started
+[2025-12-31T19:08:37.789Z] INFO: ⏳ Cron jobs scheduled
+[2025-12-31T19:08:40.259Z] INFO: 🔗 Opening register page
+[2025-12-31T19:08:46.044Z] INFO: ✍️ Filling registration form
+[2025-12-31T19:08:59.231Z] INFO: ✅ Account created successfully: abbigail.pouros@hotmail.com
+[2025-12-31T19:09:00.967Z] INFO: 🧪 DEV: Running Friends Bot
+[2025-12-31T19:09:00.971Z] INFO: 🤝 Friends bot started using account: marley.feil18@hotmail.com
+[2025-12-31T19:09:04.413Z] INFO: 👤 Account bot finished
+[2025-12-31T19:09:26.392Z] ERROR: ❌ Friends bot error: Login failed or took too long
+[2025-12-31T19:09:27.136Z] INFO: 🤝 Friends bot closed browser
+[2025-12-31T19:11:20.981Z] INFO: ⚙️ Cron started in DEV MODE
+[2025-12-31T19:11:20.998Z] INFO: 🧪 DEV: Running Account Bot immediately
+[2025-12-31T19:11:21.000Z] INFO: 👤 Account bot started
+[2025-12-31T19:11:21.065Z] INFO: ⏳ Cron jobs scheduled
+[2025-12-31T19:11:23.530Z] INFO: 🔗 Opening register page
+[2025-12-31T19:11:28.621Z] INFO: ✍️ Filling registration form
+[2025-12-31T19:11:40.761Z] INFO: ✅ Account created successfully: margot.mayert-crona45@yahoo.com
+[2025-12-31T19:11:41.518Z] INFO: 👤 Account bot finished
+[2025-12-31T19:12:00.489Z] INFO: 🧪 DEV: Running Post Bot
+[2025-12-31T19:12:00.493Z] INFO: 📝 Post bot started using account: margot.mayert-crona45@yahoo.com
+[2025-12-31T19:12:00.540Z] INFO: 🧪 DEV: Running Friends Bot
+[2025-12-31T19:12:00.552Z] INFO: 🤝 Friends bot started using account: dannie_oconnell@yahoo.com
+[2025-12-31T19:12:03.205Z] INFO: 🔐 Login on same page for margot.mayert-crona45@yahoo.com
+[2025-12-31T19:12:03.989Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T19:12:22.740Z] INFO: ✅ Logged in & cookies saved
+[2025-12-31T19:12:22.747Z] INFO: 🔗 Opening new post page
+[2025-12-31T19:12:25.370Z] INFO: ✍️ Writing post...
+[2025-12-31T19:12:32.089Z] ERROR: ❌ Friends bot error: Login failed or took too long
+[2025-12-31T19:12:37.348Z] INFO: 🖼️ Uploading image...
+[2025-12-31T19:14:44.976Z] INFO: ⚙️ Cron started in DEV MODE
+[2025-12-31T19:14:44.994Z] INFO: 🧪 DEV: Running Account Bot immediately
+[2025-12-31T19:14:44.998Z] INFO: 👤 Account bot started
+[2025-12-31T19:14:45.085Z] INFO: ⏳ Cron jobs scheduled
+[2025-12-31T19:14:48.678Z] INFO: 🔗 Opening register page
+[2025-12-31T19:14:53.510Z] INFO: ✍️ Filling registration form
+[2025-12-31T19:15:00.217Z] INFO: 🧪 DEV: Running Account Bot
+[2025-12-31T19:15:00.223Z] INFO: 👤 Account bot started
+[2025-12-31T19:15:00.239Z] INFO: 🧪 DEV: Running Friends Bot
+[2025-12-31T19:15:00.244Z] INFO: 🤝 Friends bot started using account: dannie_oconnell@yahoo.com
+[2025-12-31T19:15:00.255Z] ERROR: ❌ Session cookie not found, login is required
+[2025-12-31T19:15:04.389Z] INFO: 🔗 Opening register page
+[2025-12-31T19:15:05.132Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T19:15:08.973Z] INFO: ✍️ Filling registration form
+[2025-12-31T19:15:09.846Z] INFO: ✅ Account created successfully: aliza_stiedemann87@yahoo.com
+[2025-12-31T19:15:11.107Z] INFO: 👤 Account bot finished
+[2025-12-31T19:18:07.455Z] INFO: ⚙️ Cron started in DEV MODE
+[2025-12-31T19:18:07.498Z] INFO: 🧪 DEV: Running Account Bot immediately
+[2025-12-31T19:18:07.501Z] INFO: 👤 Account bot started
+[2025-12-31T19:18:07.605Z] INFO: ⏳ Cron jobs scheduled
+[2025-12-31T19:18:12.655Z] INFO: 🔗 Opening register page
+[2025-12-31T19:18:17.699Z] INFO: ✍️ Filling registration form
+[2025-12-31T19:18:28.913Z] INFO: ✅ Account created successfully: pasquale38@yahoo.com
+[2025-12-31T19:18:29.629Z] INFO: 👤 Account bot finished
+[2025-12-31T19:22:15.478Z] INFO: ⚙️ Cron started in DEV MODE
+[2025-12-31T19:22:15.497Z] INFO: 🧪 Running Account Bot
+[2025-12-31T19:22:15.500Z] INFO: 👤 Account bot started
+[2025-12-31T19:22:15.561Z] INFO: ⏳ Cron jobs scheduled
+[2025-12-31T19:22:19.433Z] INFO: 🔗 Opening register page
+[2025-12-31T19:22:37.833Z] INFO: ✍️ Filling registration form
+[2025-12-31T19:22:50.812Z] INFO: ✅ Account created successfully: katlyn25@hotmail.com
+[2025-12-31T19:22:52.499Z] INFO: 👤 Account bot finished
+[2025-12-31T19:22:52.505Z] WARN: ⚠️ No account created, skipping next steps
+[2025-12-31T19:23:02.868Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T19:24:01.439Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T19:26:21.245Z] INFO: ⚙️ Cron started in DEV MODE
+[2025-12-31T19:26:21.484Z] INFO: 🧪 DEV: Running Account Bot immediately
+[2025-12-31T19:26:21.561Z] INFO: 👤 Account bot started
+[2025-12-31T19:26:21.951Z] INFO: ⏳ Cron jobs scheduled
+[2025-12-31T19:26:26.760Z] INFO: 🔗 Opening register page
+[2025-12-31T19:26:35.599Z] INFO: ✍️ Filling registration form
+[2025-12-31T19:26:49.663Z] INFO: ✅ Account created successfully: mercedes_runolfsson@gmail.com
+[2025-12-31T19:26:50.647Z] INFO: 👤 Account bot finished
+[2025-12-31T19:27:00.395Z] INFO: 🧪 DEV: Running Friends Bot
+[2025-12-31T19:27:00.400Z] INFO: 🤝 Friends bot started using account: margot.mayert-crona45@yahoo.com
+[2025-12-31T19:27:00.402Z] ERROR: ❌ Session cookie not found, login is required
+[2025-12-31T19:27:02.715Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T19:33:36.439Z] INFO: ⚙️ Cron started in DEV MODE
+[2025-12-31T19:33:36.487Z] INFO: 🧪 DEV: Running Account Bot immediately
+[2025-12-31T19:33:36.490Z] INFO: 👤 Account bot started
+[2025-12-31T19:33:36.583Z] INFO: ⏳ Cron jobs scheduled
+[2025-12-31T19:33:40.364Z] INFO: 🔗 Opening register page
+[2025-12-31T19:33:44.802Z] INFO: ✍️ Filling registration form
+[2025-12-31T19:33:56.755Z] INFO: ✅ Account created successfully: rhea_dibbert34@hotmail.com
+[2025-12-31T19:33:56.771Z] INFO: 🔑 Session cookies saved for account
+[2025-12-31T19:33:57.494Z] INFO: 👤 Account bot finished
+[2025-12-31T19:34:00.822Z] INFO: 🧪 DEV: Running Post Bot
+[2025-12-31T19:34:00.826Z] INFO: 📝 Post bot started using account: berenice_sanford-jacobson@yahoo.com
+[2025-12-31T19:34:00.861Z] INFO: 🧪 DEV: Running Friends Bot
+[2025-12-31T19:34:00.866Z] INFO: 🤝 Friends bot started using account: rhea_dibbert34@hotmail.com
+[2025-12-31T19:34:00.878Z] ERROR: ❌ Session cookie not found, login is required
+[2025-12-31T19:34:03.701Z] INFO: 🔐 Login on same page for berenice_sanford-jacobson@yahoo.com
+[2025-12-31T19:34:05.035Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T19:34:14.707Z] INFO: ✅ Logged in using cookies
+[2025-12-31T19:34:14.711Z] INFO: 🔗 Opening new post page
+[2025-12-31T19:34:17.460Z] INFO: ✍️ Writing post...
+[2025-12-31T19:48:17.607Z] INFO: ⚙️ Cron started in DEV MODE
+[2025-12-31T19:48:17.644Z] INFO: 🧪 DEV: Running Account Bot immediately
+[2025-12-31T19:48:17.648Z] INFO: 👤 Account bot started
+[2025-12-31T19:48:17.771Z] INFO: ⏳ Cron jobs scheduled
+[2025-12-31T19:48:21.570Z] INFO: 🔗 Opening register page
+[2025-12-31T19:48:25.918Z] INFO: ✍️ Filling registration form
+[2025-12-31T19:48:38.229Z] INFO: ✅ Account created successfully: ressie.crona20@hotmail.com
+[2025-12-31T19:48:39.060Z] INFO: 👤 Account bot finished
+[2025-12-31T19:48:39.063Z] INFO: 🧪 DEV: Running Friends Bot after Account Bot
+[2025-12-31T19:48:39.067Z] INFO: 🤝 Friends bot started using account: allene46@gmail.com
+[2025-12-31T19:48:39.069Z] ERROR: ❌ Session cookie not found, login is required
+[2025-12-31T19:50:24.069Z] INFO: ⚙️ Cron jobs starting
+[2025-12-31T19:50:24.093Z] INFO: 👤 Account bot started
+[2025-12-31T19:50:24.167Z] INFO: ⏳ Cron jobs scheduled
+[2025-12-31T19:50:27.189Z] INFO: 🔗 Opening register page
+[2025-12-31T19:50:32.442Z] INFO: ✍️ Filling registration form
+[2025-12-31T19:50:44.486Z] INFO: ✅ Account created successfully: adalberto_padberg53@hotmail.com
+[2025-12-31T19:50:45.133Z] INFO: 👤 Account bot finished
+[2025-12-31T19:51:00.643Z] INFO: 🧪 Running Friends Bot
+[2025-12-31T19:51:00.650Z] INFO: 🤝 Friends bot started using account: katlyn25@hotmail.com
+[2025-12-31T19:51:00.654Z] ERROR: ❌ Session cookie not found, login is required
+[2025-12-31T19:51:02.150Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T19:56:03.539Z] INFO: 👤 Running Account Bot
+[2025-12-31T19:56:03.558Z] INFO: 👤 Account bot started
+[2025-12-31T19:56:07.066Z] INFO: 🔗 Opening register page
+[2025-12-31T19:56:23.238Z] INFO: ✍️ Filling registration form
+[2025-12-31T19:56:33.681Z] INFO: ✅ Account created successfully: kyler58@yahoo.com
+[2025-12-31T19:56:34.401Z] INFO: 👤 Account bot finished
+[2025-12-31T19:56:34.403Z] INFO: 🤝 Running Friends Bot
+[2025-12-31T19:56:34.407Z] INFO: 🤝 Friends bot started using account: katlyn25@hotmail.com
+[2025-12-31T19:56:34.409Z] ERROR: ❌ Session cookie not found, login is required
+[2025-12-31T19:56:34.412Z] INFO: 📝 Running Post Bot
+[2025-12-31T19:56:34.416Z] INFO: 📝 Post bot started using account: salvador.schmitt@gmail.com
+[2025-12-31T19:56:36.779Z] INFO: 🔐 Login on same page for salvador.schmitt@gmail.com
+[2025-12-31T19:56:56.921Z] INFO: 👤 Running Account Bot
+[2025-12-31T19:56:56.943Z] INFO: 👤 Account bot started
+[2025-12-31T19:57:01.093Z] INFO: 🔗 Opening register page
+[2025-12-31T19:57:05.239Z] INFO: ✍️ Filling registration form
+[2025-12-31T19:57:16.821Z] INFO: ✅ Account created successfully: felicia20@yahoo.com
+[2025-12-31T19:57:17.606Z] INFO: 👤 Account bot finished
+[2025-12-31T19:57:17.609Z] INFO: 🤝 Running Friends Bot
+[2025-12-31T19:57:17.612Z] INFO: 🤝 Friends bot started using account: karl_botsford-kertzmann23@yahoo.com
+[2025-12-31T19:57:17.616Z] ERROR: ❌ Session cookie not found, login is required
+[2025-12-31T19:57:17.620Z] INFO: 📝 Running Post Bot
+[2025-12-31T19:57:17.623Z] INFO: 📝 Post bot started using account: marina33@yahoo.com
+[2025-12-31T19:57:20.481Z] INFO: 🔐 Login on same page for marina33@yahoo.com
+[2025-12-31T19:57:38.257Z] INFO: ✅ Logged in & cookies saved
+[2025-12-31T19:57:38.260Z] INFO: 🔗 Opening new post page
+[2025-12-31T19:57:40.571Z] INFO: ✍️ Writing post...
+[2025-12-31T19:57:49.784Z] INFO: 🖼️ Uploading image...
+[2025-12-31T19:57:54.420Z] INFO: ✅ Post published successfully
+[2025-12-31T19:57:55.391Z] INFO: 📝 Post bot finished
+[2025-12-31T19:57:58.216Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T19:57:58.219Z] INFO: 🎉 All bots finished successfully!
+[2025-12-31T20:46:25.390Z] INFO: 👤 Running Account Bot
+[2025-12-31T20:46:25.459Z] INFO: 👤 Account bot started
+[2025-12-31T20:46:29.661Z] INFO: 🔗 Opening register page
+[2025-12-31T20:46:47.420Z] INFO: ✍️ Filling registration form
+[2025-12-31T20:47:00.479Z] INFO: ✅ Account created successfully: mariane.mckenzie98@yahoo.com
+[2025-12-31T20:47:01.343Z] INFO: 👤 Account bot finished
+[2025-12-31T20:47:01.348Z] ERROR: ❌ Error running bots:
+[2025-12-31T20:56:00.808Z] INFO: 👤 Running Account Bot
+[2025-12-31T20:56:00.854Z] INFO: 👤 Account bot started
+[2025-12-31T20:56:04.529Z] INFO: 🔗 Opening register page
+[2025-12-31T20:56:13.598Z] INFO: ✍️ Filling registration form
+[2025-12-31T20:56:26.771Z] INFO: ✅ Account created successfully: tyra_abbott@gmail.com
+[2025-12-31T20:56:27.521Z] INFO: 👤 Account bot finished
+[2025-12-31T20:56:27.524Z] INFO: 🔐 Running Login Bot
+[2025-12-31T20:56:27.527Z] ERROR: ❌ Error running bots:
+[2025-12-31T20:56:50.369Z] INFO: 👤 Running Account Bot
+[2025-12-31T20:56:50.397Z] INFO: 👤 Account bot started
+[2025-12-31T20:56:53.235Z] INFO: 🔗 Opening register page
+[2025-12-31T20:57:04.164Z] INFO: ✍️ Filling registration form
+[2025-12-31T20:57:19.115Z] INFO: ✅ Account created successfully: douglas_buckridge41@gmail.com
+[2025-12-31T20:57:19.767Z] INFO: 👤 Account bot finished
+[2025-12-31T20:57:19.770Z] INFO: 🔐 Running Login Bot
+[2025-12-31T20:57:19.773Z] ERROR: ❌ Error running bots:
+[2025-12-31T21:01:42.007Z] INFO: 👤 Running Account Bot
+[2025-12-31T21:01:42.059Z] INFO: 👤 Account bot started
+[2025-12-31T21:01:45.758Z] INFO: 🔗 Opening register page
+[2025-12-31T21:02:15.710Z] INFO: ✍️ Filling registration form
+[2025-12-31T21:02:27.739Z] INFO: ✅ Account created successfully: alvis.cartwright@gmail.com
+[2025-12-31T21:02:27.742Z] INFO: 🔁 Opening login page
+[2025-12-31T21:02:30.766Z] INFO: ✍️ Filling login form
+[2025-12-31T21:02:49.530Z] INFO: 🔓 Logged in successfully: alvis.cartwright@gmail.com
+[2025-12-31T21:02:49.543Z] INFO: 💾 Account saved with session cookies
+[2025-12-31T21:02:50.335Z] INFO: 👤 Account bot finished
+[2025-12-31T21:02:50.337Z] INFO: 🤝 Running Friends Bot
+[2025-12-31T21:02:50.342Z] INFO: 🤝 Friends bot started using account: phyllis.hayes@yahoo.com
+[2025-12-31T21:02:50.346Z] ERROR: ❌ Session cookie not found, login is required
+[2025-12-31T21:02:50.351Z] INFO: 📝 Running Post Bot
+[2025-12-31T21:02:50.356Z] INFO: 📝 Post bot started using account: pasquale38@yahoo.com
+[2025-12-31T21:02:52.796Z] ERROR: ❌ Post bot error: Account not found
+[2025-12-31T21:02:53.336Z] INFO: 📝 Post bot finished
+[2025-12-31T21:02:56.148Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T21:02:56.151Z] INFO: 🎉 All bots finished successfully!
+[2025-12-31T21:04:45.950Z] INFO: 👤 Running Account Bot
+[2025-12-31T21:04:45.968Z] INFO: 👤 Account bot started
+[2025-12-31T21:04:48.429Z] INFO: 🔗 Opening register page
+[2025-12-31T21:05:32.927Z] ERROR: ❌ Account bot error: net::ERR_CONNECTION_RESET at https://mava-b838.onrender.com/auth/register
+[2025-12-31T21:05:33.528Z] INFO: 👤 Account bot finished
+[2025-12-31T21:05:33.531Z] INFO: 📝 Running Post Bot
+[2025-12-31T21:05:33.535Z] INFO: 📝 Post bot started using account: ressie.crona20@hotmail.com
+[2025-12-31T21:05:36.297Z] ERROR: ❌ Post bot error: Account not found
+[2025-12-31T21:05:36.879Z] INFO: 📝 Post bot finished
+[2025-12-31T21:05:40.140Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T21:05:40.143Z] INFO: 🎉 All bots finished successfully!
+[2025-12-31T21:05:46.647Z] INFO: 👤 Running Account Bot
+[2025-12-31T21:05:46.665Z] INFO: 👤 Account bot started
+[2025-12-31T21:05:49.052Z] INFO: 🔗 Opening register page
+[2025-12-31T21:06:18.962Z] INFO: ✍️ Filling registration form
+[2025-12-31T21:06:37.453Z] INFO: ✅ Account created successfully: jimmy_king@yahoo.com
+[2025-12-31T21:06:38.244Z] INFO: 👤 Account bot finished
+[2025-12-31T21:06:38.247Z] INFO: 📝 Running Post Bot
+[2025-12-31T21:06:38.252Z] INFO: 📝 Post bot started using account: berenice_sanford-jacobson@yahoo.com
+[2025-12-31T21:06:41.339Z] ERROR: ❌ Post bot error: Account not found
+[2025-12-31T21:06:42.101Z] INFO: 📝 Post bot finished
+[2025-12-31T21:06:50.605Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T21:06:50.608Z] INFO: 🎉 All bots finished successfully!
+[2025-12-31T21:10:54.157Z] INFO: 👤 Running Account Bot
+[2025-12-31T21:10:54.176Z] INFO: 👤 Account bot started
+[2025-12-31T21:10:57.516Z] INFO: 🔗 Opening register page
+[2025-12-31T21:11:11.606Z] INFO: ✍️ Filling registration form
+[2025-12-31T21:11:21.668Z] INFO: ✅ Account created successfully: janie42@gmail.com
+[2025-12-31T21:11:21.671Z] INFO: 🔁 Opening login page
+[2025-12-31T21:11:24.274Z] INFO: ✍️ Filling login form
+[2025-12-31T21:11:35.367Z] INFO: 🔓 Logged in successfully: janie42@gmail.com
+[2025-12-31T21:11:35.380Z] INFO: 💾 Account saved with session cookies
+[2025-12-31T21:11:36.075Z] INFO: 👤 Account bot finished
+[2025-12-31T21:11:36.077Z] INFO: 📝 Running Post Bot
+[2025-12-31T21:11:36.080Z] INFO: 📝 Post bot started using account: dannie_oconnell@yahoo.com
+[2025-12-31T21:11:38.777Z] ERROR: ❌ Post bot error: Account not found
+[2025-12-31T21:11:39.714Z] INFO: 📝 Post bot finished
+[2025-12-31T21:11:42.032Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T21:11:42.035Z] INFO: 🎉 All bots finished successfully!
+[2025-12-31T21:15:42.390Z] INFO: 👤 Running Account Bot
+[2025-12-31T21:15:42.411Z] INFO: 👤 Account bot started
+[2025-12-31T21:15:45.755Z] INFO: 🔗 Opening register page
+[2025-12-31T21:16:00.814Z] INFO: ✍️ Filling registration form
+[2025-12-31T21:16:11.977Z] INFO: ✅ Account created successfully: elsie14@yahoo.com
+[2025-12-31T21:16:11.980Z] INFO: 🔁 Opening login page
+[2025-12-31T21:16:15.201Z] INFO: ✍️ Filling login form
+[2025-12-31T21:16:32.318Z] INFO: 🔓 Logged in successfully: elsie14@yahoo.com
+[2025-12-31T21:16:32.331Z] INFO: 💾 Account saved with session cookies
+[2025-12-31T21:16:33.077Z] INFO: 👤 Account bot finished
+[2025-12-31T21:16:33.079Z] INFO: 📝 Running Post Bot
+[2025-12-31T21:16:33.083Z] INFO: 📝 Post bot started using account: janelle.wilderman@gmail.com
+[2025-12-31T21:16:35.724Z] ERROR: ❌ Post bot error: Account not found
+[2025-12-31T21:16:36.273Z] INFO: 📝 Post bot finished
+[2025-12-31T21:16:39.050Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T21:16:39.052Z] INFO: 🎉 All bots finished successfully!
+[2025-12-31T21:23:19.581Z] INFO: 👤 Running Account Bot
+[2025-12-31T21:23:19.605Z] INFO: 👤 Account bot started
+[2025-12-31T21:23:23.182Z] INFO: 🔗 Opening register page
+[2025-12-31T21:23:32.652Z] INFO: ✍️ Filling registration form
+[2025-12-31T21:23:44.263Z] INFO: ✅ Account created successfully: lera59@yahoo.com
+[2025-12-31T21:23:44.266Z] INFO: 🔁 Opening login page
+[2025-12-31T21:23:47.642Z] INFO: ✍️ Filling login form
+[2025-12-31T21:23:58.898Z] INFO: 🔓 Logged in successfully: lera59@yahoo.com
+[2025-12-31T21:23:58.912Z] INFO: 💾 Account saved with session cookies
+[2025-12-31T21:23:59.733Z] INFO: 👤 Account bot finished
+[2025-12-31T21:23:59.735Z] INFO: 📝 Running Post Bot
+[2025-12-31T21:23:59.739Z] INFO: 📝 Post bot started using account: elsie14@yahoo.com
+[2025-12-31T21:23:59.741Z] INFO: 🍪 Cookies count: 3
+[2025-12-31T21:23:59.746Z] ERROR: ❌ Error running bots:
+[2025-12-31T21:25:16.598Z] INFO: 👤 Running Account Bot
+[2025-12-31T21:25:16.617Z] INFO: 👤 Account bot started
+[2025-12-31T21:25:19.494Z] INFO: 🔗 Opening register page
+[2025-12-31T21:25:27.583Z] INFO: ✍️ Filling registration form
+[2025-12-31T21:25:37.859Z] INFO: ✅ Account created successfully: robb40@gmail.com
+[2025-12-31T21:25:37.862Z] INFO: 🔁 Opening login page
+[2025-12-31T21:25:40.635Z] INFO: ✍️ Filling login form
+[2025-12-31T21:25:54.694Z] INFO: 🔓 Logged in successfully: robb40@gmail.com
+[2025-12-31T21:25:54.705Z] INFO: 💾 Account saved with session cookies
+[2025-12-31T21:25:55.370Z] INFO: 👤 Account bot finished
+[2025-12-31T21:25:55.372Z] INFO: 📝 Running Post Bot
+[2025-12-31T21:25:55.378Z] INFO: 📝 Post bot started using account: phyllis.hayes@yahoo.com
+[2025-12-31T21:25:55.381Z] INFO: 🍪 Cookies count: 3
+[2025-12-31T21:25:57.753Z] ERROR: ❌ Post bot error: Account not found
+[2025-12-31T21:25:58.447Z] INFO: 📝 Post bot finished
+[2025-12-31T21:26:01.300Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T21:26:01.303Z] INFO: 🎉 All bots finished successfully!
+[2025-12-31T21:34:56.940Z] INFO: 👤 Running Account Bot
+[2025-12-31T21:34:56.990Z] INFO: 👤 Account bot started
+[2025-12-31T21:35:00.761Z] INFO: 🔗 Opening register page
+[2025-12-31T21:35:09.584Z] INFO: ✍️ Filling registration form
+[2025-12-31T21:35:21.556Z] INFO: ✅ Account created successfully: lina.nicolas@hotmail.com
+[2025-12-31T21:35:21.559Z] INFO: 🔁 Opening login page
+[2025-12-31T21:35:23.972Z] INFO: ✍️ Filling login form
+[2025-12-31T21:35:41.142Z] INFO: 🔓 Logged in successfully: lina.nicolas@hotmail.com
+[2025-12-31T21:35:41.155Z] INFO: 💾 Account saved with session cookies
+[2025-12-31T21:35:42.035Z] INFO: 👤 Account bot finished
+[2025-12-31T21:35:42.037Z] INFO: 📝 Running Post Bot
+[2025-12-31T21:35:42.043Z] INFO: 📝 Post bot started using account: alvis.cartwright@gmail.com
+[2025-12-31T21:35:42.045Z] INFO: 🍪 Cookies count: 3
+[2025-12-31T21:36:19.458Z] INFO: 🔗 Opening new post page
+[2025-12-31T21:36:22.054Z] INFO: ✍️ Writing post...
+[2025-12-31T21:36:35.357Z] INFO: 🖼️ Uploading image...
+[2025-12-31T21:36:40.008Z] INFO: ✅ Post published successfully
+[2025-12-31T21:36:40.707Z] INFO: 📝 Post bot finished
+[2025-12-31T21:36:44.215Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T21:36:44.219Z] INFO: 🎉 All bots finished successfully!
+[2025-12-31T22:10:22.022Z] INFO: 👤 Running Account Bot
+[2025-12-31T22:10:22.077Z] INFO: 👤 Account bot started
+[2025-12-31T22:10:25.965Z] INFO: 🔗 Opening register page
+[2025-12-31T22:10:48.562Z] INFO: ✍️ Filling registration form
+[2025-12-31T22:10:59.531Z] INFO: ✅ Account created successfully: ashleigh79@gmail.com
+[2025-12-31T22:10:59.534Z] INFO: 🔁 Opening login page
+[2025-12-31T22:11:02.478Z] INFO: ✍️ Filling login form
+[2025-12-31T22:11:20.401Z] INFO: 🔓 Logged in successfully: ashleigh79@gmail.com
+[2025-12-31T22:11:20.415Z] INFO: 💾 Account saved with session cookies
+[2025-12-31T22:11:21.377Z] INFO: 👤 Account bot finished
+[2025-12-31T22:11:21.379Z] INFO: 📝 Running Post Bot
+[2025-12-31T22:11:21.384Z] INFO: 📝 Post bot started using account: marina33@yahoo.com
+[2025-12-31T22:11:21.386Z] INFO: 🍪 Cookies count: 3
+[2025-12-31T22:12:24.408Z] INFO: 🔗 Opening new post page
+[2025-12-31T22:12:26.663Z] INFO: ✍️ Writing post...
+[2025-12-31T22:12:39.391Z] INFO: 🖼️ Uploading image...
+[2025-12-31T22:12:44.892Z] INFO: ✅ Post published successfully
+[2025-12-31T22:12:45.583Z] INFO: 📝 Post bot finished
+[2025-12-31T22:12:45.586Z] INFO: ❤️ Running Engagement Bot
+[2025-12-31T22:12:48.015Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T22:12:48.018Z] INFO: 🎉 All bots finished successfully!
+[2025-12-31T22:21:32.124Z] INFO: 👤 Running Account Bot
+[2025-12-31T22:21:32.144Z] INFO: 👤 Account bot started
+[2025-12-31T22:21:35.549Z] INFO: 🔗 Opening register page
+[2025-12-31T22:21:58.183Z] INFO: ✍️ Filling registration form
+[2025-12-31T22:22:11.916Z] INFO: ✅ Account created successfully: marisol.paucek34@yahoo.com
+[2025-12-31T22:22:11.919Z] INFO: 🔁 Opening login page
+[2025-12-31T22:22:14.375Z] INFO: ✍️ Filling login form
+[2025-12-31T22:22:37.179Z] INFO: 🔓 Logged in successfully: marisol.paucek34@yahoo.com
+[2025-12-31T22:22:37.203Z] INFO: 💾 Account saved with session cookies
+[2025-12-31T22:22:37.937Z] INFO: 👤 Account bot finished
+[2025-12-31T22:22:37.939Z] INFO: 📝 Running Post Bot
+[2025-12-31T22:22:37.943Z] INFO: 📝 Post bot started using account: robb40@gmail.com
+[2025-12-31T22:22:37.945Z] INFO: 🍪 Cookies count: 3
+[2025-12-31T22:23:19.769Z] INFO: 🔗 Opening new post page
+[2025-12-31T22:23:22.501Z] INFO: ✍️ Writing post...
+[2025-12-31T22:23:35.336Z] INFO: 🖼️ Uploading image...
+[2025-12-31T22:23:40.412Z] INFO: ✅ Post published successfully
+[2025-12-31T22:23:41.099Z] INFO: 📝 Post bot finished
+[2025-12-31T22:23:41.105Z] INFO: ❤️ Running Engagement Bot
+[2025-12-31T22:23:43.242Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T22:23:43.245Z] INFO: 🎉 All bots finished successfully!
+[2025-12-31T22:28:36.463Z] INFO: 👤 Running Account Bot
+[2025-12-31T22:28:36.486Z] INFO: 👤 Account bot started
+[2025-12-31T22:28:40.671Z] INFO: 🔗 Opening register page
+[2025-12-31T22:28:50.343Z] INFO: ✍️ Filling registration form
+[2025-12-31T22:29:01.296Z] INFO: ✅ Account created successfully: alicia92@hotmail.com
+[2025-12-31T22:29:01.299Z] INFO: 🔁 Opening login page
+[2025-12-31T22:29:04.304Z] INFO: ✍️ Filling login form
+[2025-12-31T22:29:18.915Z] INFO: 🔓 Logged in successfully: alicia92@hotmail.com
+[2025-12-31T22:29:18.931Z] INFO: 💾 Account saved with session cookies
+[2025-12-31T22:29:19.677Z] INFO: 👤 Account bot finished
+[2025-12-31T22:29:19.679Z] INFO: 📝 Running Post Bot
+[2025-12-31T22:29:19.684Z] INFO: 📝 Post bot started using account: alessandro27@hotmail.com
+[2025-12-31T22:29:19.687Z] INFO: 🍪 Cookies count: 3
+[2025-12-31T22:29:56.094Z] INFO: 🔗 Opening new post page
+[2025-12-31T22:29:58.709Z] INFO: ✍️ Writing post...
+[2025-12-31T22:30:08.045Z] INFO: 🖼️ Uploading image...
+[2025-12-31T22:30:40.301Z] ERROR: ❌ Post bot error: Timed out after waiting 30000ms
+[2025-12-31T22:30:41.053Z] INFO: 📝 Post bot finished
+[2025-12-31T22:30:41.056Z] INFO: ❤️ Running Engagement Bot
+[2025-12-31T22:30:43.315Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T22:30:43.318Z] INFO: 🎉 All bots finished successfully!
+[2025-12-31T22:35:35.230Z] INFO: 👤 Running Account Bot
+[2025-12-31T22:35:35.252Z] INFO: 👤 Account bot started
+[2025-12-31T22:35:39.132Z] INFO: 🔗 Opening register page
+[2025-12-31T22:35:58.840Z] INFO: ✍️ Filling registration form
+[2025-12-31T22:36:13.487Z] INFO: ✅ Account created successfully: moshe.rosenbaum23@gmail.com
+[2025-12-31T22:36:13.490Z] INFO: 🔁 Opening login page
+[2025-12-31T22:36:16.081Z] INFO: ✍️ Filling login form
+[2025-12-31T22:36:32.123Z] INFO: 🔓 Logged in successfully: moshe.rosenbaum23@gmail.com
+[2025-12-31T22:36:32.136Z] INFO: 💾 Account saved with session cookies
+[2025-12-31T22:36:32.892Z] INFO: 👤 Account bot finished
+[2025-12-31T22:36:32.895Z] INFO: 📝 Running Post Bot
+[2025-12-31T22:36:32.899Z] INFO: 📝 Post bot started using account: lina.nicolas@hotmail.com
+[2025-12-31T22:36:32.901Z] INFO: 🍪 Cookies count: 3
+[2025-12-31T22:37:35.375Z] ERROR: ❌ Post bot error: Navigation timeout of 60000 ms exceeded
+[2025-12-31T22:37:35.989Z] INFO: 📝 Post bot finished
+[2025-12-31T22:37:35.992Z] INFO: ❤️ Running Engagement Bot
+[2025-12-31T22:37:39.165Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T22:37:39.167Z] INFO: 🎉 All bots finished successfully!
+[2025-12-31T22:41:41.531Z] INFO: 👤 Running Account Bot
+[2025-12-31T22:41:41.555Z] INFO: 👤 Account bot started
+[2025-12-31T22:41:46.807Z] INFO: 🔗 Opening register page
+[2025-12-31T22:41:56.100Z] INFO: ✍️ Filling registration form
+[2025-12-31T22:42:08.114Z] INFO: ✅ Account created successfully: aliya.nader58@gmail.com
+[2025-12-31T22:42:08.119Z] INFO: 🔁 Opening login page
+[2025-12-31T22:42:12.372Z] INFO: ✍️ Filling login form
+[2025-12-31T22:42:27.916Z] INFO: 🔓 Logged in successfully: aliya.nader58@gmail.com
+[2025-12-31T22:42:27.932Z] INFO: 💾 Account saved with session cookies
+[2025-12-31T22:42:28.707Z] INFO: 👤 Account bot finished
+[2025-12-31T22:42:28.710Z] INFO: 📝 Running Post Bot
+[2025-12-31T22:42:28.713Z] INFO: 📝 Post bot started using account: ana.kuphal@hotmail.com
+[2025-12-31T22:42:28.715Z] INFO: 🍪 Cookies count: 3
+[2025-12-31T22:43:11.595Z] INFO: 🔗 Opening new post page
+[2025-12-31T22:43:14.098Z] INFO: ✍️ Writing post...
+[2025-12-31T22:43:23.275Z] INFO: 🖼️ Uploading image...
+[2025-12-31T22:43:28.684Z] INFO: ✅ Post published successfully and saved
+[2025-12-31T22:43:29.348Z] INFO: 📝 Post bot finished
+[2025-12-31T22:43:29.351Z] INFO: ❤️ Running Engagement Bot
+[2025-12-31T22:43:44.268Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T22:43:44.270Z] INFO: 🎉 All bots finished successfully!
+[2025-12-31T22:47:16.178Z] INFO: 👤 Running Account Bot
+[2025-12-31T22:47:16.233Z] INFO: 👤 Account bot started
+[2025-12-31T22:47:20.376Z] INFO: 🔗 Opening register page
+[2025-12-31T22:47:27.753Z] INFO: ✍️ Filling registration form
+[2025-12-31T22:47:39.284Z] INFO: ✅ Account created successfully: laila_barton@hotmail.com
+[2025-12-31T22:47:39.288Z] INFO: 🔁 Opening login page
+[2025-12-31T22:47:41.921Z] INFO: ✍️ Filling login form
+[2025-12-31T22:47:56.369Z] INFO: 🔓 Logged in successfully: laila_barton@hotmail.com
+[2025-12-31T22:47:56.383Z] INFO: 💾 Account saved with session cookies
+[2025-12-31T22:47:57.149Z] INFO: 👤 Account bot finished
+[2025-12-31T22:47:57.151Z] INFO: 📝 Running Post Bot
+[2025-12-31T22:47:57.155Z] INFO: 📝 Post bot started using account: lera59@yahoo.com
+[2025-12-31T22:47:57.156Z] INFO: 🍪 Cookies count: 3
+[2025-12-31T22:48:33.058Z] INFO: 🔗 Opening new post page
+[2025-12-31T22:48:35.606Z] INFO: ✍️ Writing post...
+[2025-12-31T22:48:47.176Z] INFO: 🖼️ Uploading image...
+[2025-12-31T22:48:52.028Z] INFO: ✅ Post published successfully and saved
+[2025-12-31T22:48:52.788Z] INFO: 📝 Post bot finished
+[2025-12-31T22:48:52.790Z] INFO: ❤️ Running Engagement Bot
+[2025-12-31T22:48:52.795Z] ERROR: ❌ Error running bots:
+[2025-12-31T22:53:45.187Z] INFO: 👤 Running Account Bot
+[2025-12-31T22:53:45.235Z] INFO: 👤 Account bot started
+[2025-12-31T22:53:49.518Z] INFO: 🔗 Opening register page
+[2025-12-31T22:54:03.348Z] INFO: ✍️ Filling registration form
+[2025-12-31T22:54:23.792Z] INFO: ✅ Account created successfully: armando_jaskolski-jacobson17@hotmail.com
+[2025-12-31T22:54:23.795Z] INFO: 🔁 Opening login page
+[2025-12-31T22:54:28.432Z] INFO: ✍️ Filling login form
+[2025-12-31T22:54:43.129Z] INFO: 🔓 Logged in successfully: armando_jaskolski-jacobson17@hotmail.com
+[2025-12-31T22:54:43.143Z] INFO: 💾 Account saved with session cookies
+[2025-12-31T22:54:43.950Z] INFO: 👤 Account bot finished
+[2025-12-31T22:54:43.953Z] INFO: 📝 Running Post Bot
+[2025-12-31T22:54:43.961Z] INFO: 📝 Post bot started using account: berenice_sanford-jacobson@yahoo.com
+[2025-12-31T22:54:43.964Z] INFO: 🍪 Cookies count: 3
+[2025-12-31T22:55:17.717Z] INFO: 🔗 Opening new post page
+[2025-12-31T22:55:20.341Z] INFO: ✍️ Writing post...
+[2025-12-31T22:55:29.626Z] INFO: 🖼️ Uploading image...
+[2025-12-31T22:55:34.919Z] INFO: ✅ Post published successfully and saved
+[2025-12-31T22:55:35.663Z] INFO: 📝 Post bot finished
+[2025-12-31T22:55:35.666Z] INFO: ❤️ Running Engagement Bot
+[2025-12-31T22:55:43.698Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T22:55:43.701Z] INFO: 🎉 All bots finished successfully!
+[2025-12-31T23:02:13.811Z] INFO: 👤 Running Account Bot
+[2025-12-31T23:02:13.862Z] INFO: 👤 Account bot started
+[2025-12-31T23:02:17.439Z] INFO: 🔗 Opening register page
+[2025-12-31T23:03:01.541Z] INFO: ✍️ Filling registration form
+[2025-12-31T23:03:15.156Z] INFO: ✅ Account created successfully: asia56@yahoo.com
+[2025-12-31T23:03:15.159Z] INFO: 🔁 Opening login page
+[2025-12-31T23:03:20.463Z] INFO: ✍️ Filling login form
+[2025-12-31T23:03:38.490Z] INFO: 🔓 Logged in successfully: asia56@yahoo.com
+[2025-12-31T23:03:38.505Z] INFO: 💾 Account saved with session cookies
+[2025-12-31T23:03:39.313Z] INFO: 👤 Account bot finished
+[2025-12-31T23:03:39.315Z] INFO: 📝 Running Post Bot
+[2025-12-31T23:03:39.319Z] INFO: 📝 Post bot started using account: elsie14@yahoo.com
+[2025-12-31T23:03:39.321Z] INFO: 🍪 Cookies count: 3
+[2025-12-31T23:05:33.872Z] INFO: 🔗 Opening new post page
+[2025-12-31T23:05:39.010Z] INFO: ✍️ Writing post...
+[2025-12-31T23:05:50.807Z] INFO: 🖼️ Uploading image...
+[2025-12-31T23:05:55.797Z] INFO: ✅ Post published successfully and saved
+[2025-12-31T23:05:56.466Z] INFO: 📝 Post bot finished
+[2025-12-31T23:05:56.468Z] INFO: ❤️ Running Engagement Bot
+[2025-12-31T23:06:08.764Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T23:06:08.767Z] INFO: 🎉 All bots finished successfully!
+[2025-12-31T23:15:00.746Z] INFO: 👤 Running Account Bot
+[2025-12-31T23:15:00.768Z] INFO: 👤 Account bot started
+[2025-12-31T23:15:04.416Z] INFO: 🔗 Opening register page
+[2025-12-31T23:15:19.573Z] INFO: ✍️ Filling registration form
+[2025-12-31T23:15:30.944Z] INFO: ✅ Account created successfully: brycen75@yahoo.com
+[2025-12-31T23:15:30.947Z] INFO: 🔁 Opening login page
+[2025-12-31T23:15:33.284Z] INFO: ✍️ Filling login form
+[2025-12-31T23:15:46.129Z] INFO: 🔓 Logged in successfully: brycen75@yahoo.com
+[2025-12-31T23:15:46.145Z] INFO: 💾 Account saved with session cookies
+[2025-12-31T23:15:46.972Z] INFO: 👤 Account bot finished
+[2025-12-31T23:15:46.975Z] INFO: 📝 Running Post Bot
+[2025-12-31T23:15:46.979Z] INFO: 📝 Post bot started using account: lera59@yahoo.com
+[2025-12-31T23:15:46.981Z] INFO: 🍪 Cookies count: 3
+[2025-12-31T23:16:26.136Z] INFO: 🔗 Opening new post page
+[2025-12-31T23:16:28.674Z] INFO: ✍️ Writing post...
+[2025-12-31T23:16:38.050Z] INFO: 🖼️ Uploading image...
+[2025-12-31T23:16:42.774Z] INFO: ✅ Post published successfully and saved
+[2025-12-31T23:16:43.630Z] INFO: 📝 Post bot finished
+[2025-12-31T23:16:43.661Z] INFO: ❤️ Running Engagement Bot
+[2025-12-31T23:16:49.481Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T23:16:49.483Z] INFO: 🎉 All bots finished successfully!
+[2025-12-31T23:32:51.023Z] INFO: 👤 Running Account Bot
+[2025-12-31T23:32:51.071Z] INFO: 👤 Account bot started
+[2025-12-31T23:32:55.034Z] INFO: 🔗 Opening register page
+[2025-12-31T23:33:05.445Z] INFO: ✍️ Filling registration form
+[2025-12-31T23:33:17.832Z] INFO: ✅ Account created successfully: brady59@yahoo.com
+[2025-12-31T23:33:17.835Z] INFO: 🔁 Opening login page
+[2025-12-31T23:33:20.935Z] INFO: ✍️ Filling login form
+[2025-12-31T23:33:35.269Z] INFO: 🔓 Logged in successfully: brady59@yahoo.com
+[2025-12-31T23:33:35.283Z] INFO: 💾 Account saved with session cookies
+[2025-12-31T23:33:36.189Z] INFO: 👤 Account bot finished
+[2025-12-31T23:33:36.192Z] INFO: 📝 Running Post Bot
+[2025-12-31T23:33:36.197Z] INFO: 📝 Post bot started using account: brycen75@yahoo.com
+[2025-12-31T23:33:36.200Z] INFO: 🍪 Cookies count: 3
+[2025-12-31T23:36:48.322Z] INFO: 👤 Running Account Bot
+[2025-12-31T23:36:48.370Z] INFO: 👤 Account bot started
+[2025-12-31T23:36:51.893Z] INFO: 🔗 Opening register page
+[2025-12-31T23:37:03.628Z] INFO: ✍️ Filling registration form
+[2025-12-31T23:37:15.370Z] INFO: ✅ Account created successfully: sandy_stracke@yahoo.com
+[2025-12-31T23:37:15.373Z] INFO: 🔁 Opening login page
+[2025-12-31T23:37:18.404Z] INFO: ✍️ Filling login form
+[2025-12-31T23:37:31.535Z] INFO: 🔓 Logged in successfully: sandy_stracke@yahoo.com
+[2025-12-31T23:37:31.550Z] INFO: 💾 Account saved with session cookies
+[2025-12-31T23:37:32.425Z] INFO: 👤 Account bot finished
+[2025-12-31T23:37:32.428Z] INFO: 📝 Running Post Bot
+[2025-12-31T23:37:32.434Z] INFO: 📝 Post bot started using account: lina.nicolas@hotmail.com
+[2025-12-31T23:37:32.437Z] INFO: 🍪 Cookies count: 3
+[2025-12-31T23:38:31.426Z] INFO: 🔗 Opening new post page
+[2025-12-31T23:38:33.806Z] INFO: ✍️ Writing post...
+[2025-12-31T23:38:46.824Z] INFO: 🖼️ Uploading image...
+[2025-12-31T23:38:52.131Z] INFO: ✅ Post published successfully and saved
+[2025-12-31T23:38:52.811Z] INFO: 📝 Post bot finished
+[2025-12-31T23:38:52.813Z] INFO: ❤️ Running Engagement Bot
+[2025-12-31T23:38:59.835Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T23:38:59.838Z] INFO: 🎉 All bots finished successfully!
+[2025-12-31T23:40:07.139Z] INFO: ❤️ Running Engagement Bot
+[2025-12-31T23:40:12.584Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T23:40:12.587Z] INFO: 🎉 All bots finished successfully!
+[2025-12-31T23:53:07.433Z] INFO: ❤️ Running Engagement Bot
+[2025-12-31T23:53:11.315Z] ERROR: ❌ Error running bots:
+[2025-12-31T23:57:07.823Z] INFO: ❤️ Running Engagement Bot
+[2025-12-31T23:57:08.176Z] ERROR: ❌ Error running bots:
+[2025-12-31T23:59:29.558Z] INFO: ❤️ Running Engagement Bot
+[2025-12-31T23:59:34.466Z] INFO: ✅ KeepAlive ping success
+[2025-12-31T23:59:34.469Z] INFO: 🎉 All bots finished successfully!
+[2026-01-01T00:06:41.808Z] INFO: ❤️ Running Engagement Bot
+[2026-01-01T00:06:48.561Z] INFO: ✅ KeepAlive ping success
+[2026-01-01T00:06:48.564Z] INFO: 🎉 All bots finished successfully!
+[2026-01-01T00:12:17.057Z] INFO: ❤️ Running Engagement Bot
+[2026-01-01T00:12:20.664Z] INFO: ✅ KeepAlive ping success
+[2026-01-01T00:12:20.666Z] INFO: 🎉 All bots finished successfully!
+[2026-01-01T00:18:57.220Z] INFO: ❤️ Running Engagement Bot
+[2026-01-01T00:19:03.165Z] INFO: ✅ KeepAlive ping success
+[2026-01-01T00:19:03.206Z] INFO: 🎉 All bots finished successfully!
+[2026-01-01T00:29:49.239Z] INFO: ❤️ Running Engagement Bot
+[2026-01-01T00:29:56.452Z] INFO: ✅ KeepAlive ping success
+[2026-01-01T00:29:56.455Z] INFO: 🎉 All bots finished successfully!
+[2026-01-01T00:32:53.189Z] INFO: ❤️ Running Engagement Bot
+[2026-01-01T00:32:56.354Z] ERROR: ❌ Error running bots:
+[2026-01-01T00:34:02.088Z] INFO: ❤️ Running Engagement Bot
+[2026-01-01T00:34:05.732Z] ERROR: ❌ Error running bots:
+[2026-01-01T00:36:58.057Z] INFO: ❤️ Running Engagement Bot
+[2026-01-01T00:37:03.394Z] ERROR: ❌ Error running bots:
+[2026-01-01T00:41:45.696Z] INFO: ❤️ Running Engagement Bot
+[2026-01-01T00:42:15.275Z] INFO: ✅ KeepAlive ping success
+[2026-01-01T00:42:15.279Z] INFO: 🎉 All bots finished successfully!
+[2026-01-01T00:46:17.354Z] INFO: ❤️ Running Engagement Bot
+[2026-01-01T00:46:55.142Z] INFO: ✅ KeepAlive ping success
+[2026-01-01T00:46:55.145Z] INFO: 🎉 All bots finished successfully!
+[2026-01-01T00:53:00.189Z] INFO: 👤 Running Account Bot
+[2026-01-01T00:53:00.247Z] INFO: 👤 Account bot started
+[2026-01-01T00:53:04.313Z] INFO: 🔗 Opening register page
+[2026-01-01T00:53:14.519Z] INFO: ✍️ Filling registration form
+[2026-01-01T00:53:36.610Z] INFO: ✅ Account created successfully: stone81@yahoo.com
+[2026-01-01T00:53:36.614Z] INFO: 🔁 Opening login page
+[2026-01-01T00:54:20.169Z] INFO: ✍️ Filling login form
+[2026-01-01T00:55:11.087Z] INFO: 🔓 Logged in successfully: stone81@yahoo.com
+[2026-01-01T00:55:11.107Z] INFO: 💾 Account saved with session cookies
+[2026-01-01T00:55:12.528Z] INFO: 👤 Account bot finished
+[2026-01-01T00:55:12.533Z] INFO: ❤️ Running Engagement Bot
+[2026-01-01T00:56:41.700Z] INFO: 🎉 Engagement bot finished for all posts!
+[2026-01-01T00:56:41.736Z] INFO: 📝 Running Post Bot
+[2026-01-01T00:56:41.741Z] INFO: 📝 Post bot started using account: armando_jaskolski-jacobson17@hotmail.com
+[2026-01-01T00:56:41.743Z] INFO: 🍪 Cookies count: 3
+[2026-01-01T01:02:54.917Z] INFO: 👤 Running Account Bot
+[2026-01-01T01:02:54.964Z] INFO: 👤 Account bot started
+[2026-01-01T01:02:58.660Z] INFO: 🔗 Opening register page
+[2026-01-01T01:03:09.320Z] INFO: ✍️ Filling registration form
+[2026-01-01T01:03:23.317Z] INFO: ✅ Account created successfully: riley.koelpin-schumm96@hotmail.com
+[2026-01-01T01:03:23.320Z] INFO: 🔁 Opening login page
+[2026-01-01T01:03:25.856Z] INFO: ✍️ Filling login form
+[2026-01-01T01:03:41.535Z] INFO: 🔓 Logged in successfully: riley.koelpin-schumm96@hotmail.com
+[2026-01-01T01:03:41.550Z] INFO: 💾 Account saved with session cookies
+[2026-01-01T01:03:42.368Z] INFO: 👤 Account bot finished
+[2026-01-01T01:03:42.371Z] INFO: ❤️ Running Engagement Bot
+[2026-01-01T01:04:20.185Z] INFO: 🎉 Engagement bot finished for all posts!
+[2026-01-01T01:04:20.247Z] INFO: 📝 Running Post Bot
+[2026-01-01T01:04:20.255Z] INFO: 📝 Post bot started using account: brady59@yahoo.com
+[2026-01-01T01:04:20.258Z] INFO: 🍪 Cookies count: 3
+[2026-01-01T01:05:20.556Z] INFO: 🔗 Opening new post page
+[2026-01-01T01:05:26.000Z] ERROR: ❌ Post bot error: ❌ Post form not found (caption / image / submit)
+[2026-01-01T01:05:26.958Z] INFO: 📝 Post bot finished
+[2026-01-01T01:05:26.962Z] INFO: ❤️ Running Engagement Bot
+[2026-01-01T01:05:30.165Z] ERROR: ❌ Error running bots:
+[2026-01-01T01:06:49.407Z] INFO: 👤 Running Account Bot
+[2026-01-01T01:06:49.426Z] INFO: 👤 Account bot started
+[2026-01-01T01:06:52.336Z] INFO: 🔗 Opening register page
+[2026-01-01T15:57:38.548Z] INFO: 👤 Running Account Bot (50 remaining today)
+[2026-01-01T15:57:38.588Z] INFO: 👤 Account bot started
+[2026-01-01T15:57:38.636Z] INFO: 📝 Running Post Bot (1/2)
+[2026-01-01T15:57:38.657Z] INFO: 📝 Post bot started using account: marley.feil18@hotmail.com
+[2026-01-01T15:57:38.678Z] INFO: 🍪 Cookies count: 3
+[2026-01-01T15:57:39.387Z] INFO: 🚀 Bot system started and running 24/7
+[2026-01-01T15:57:46.502Z] INFO: 🔗 Opening register page
+[2026-01-01T15:57:46.672Z] INFO: ✅ KeepAlive sent 5 requests
+[2026-01-01T15:57:51.611Z] INFO: ✍️ Filling registration form
+[2026-01-01T15:57:56.910Z] INFO: 🔗 Opening new post page
+[2026-01-01T15:58:01.281Z] ERROR: ❌ Post bot error: ❌ Post form not found (caption / image / submit)
+[2026-01-01T15:58:08.127Z] INFO: ✅ Account created successfully: germaine.hane@gmail.com
+[2026-01-01T15:58:08.130Z] INFO: 🔁 Opening login page
+[2026-01-01T15:58:11.110Z] INFO: ✍️ Filling login form
+[2026-01-01T15:59:17.535Z] INFO: 👤 Running Account Bot (50 remaining today)
+[2026-01-01T15:59:17.569Z] INFO: 👤 Account bot started
+[2026-01-01T15:59:17.613Z] INFO: 📝 Running Post Bot (1/2)
+[2026-01-01T15:59:17.620Z] INFO: 📝 Post bot started using account: rhea_dibbert34@hotmail.com
+[2026-01-01T15:59:17.624Z] INFO: 🍪 Cookies count: 2
+[2026-01-01T15:59:18.197Z] INFO: 🚀 Bot system started and running 24/7
+[2026-01-01T15:59:25.494Z] INFO: 🔗 Opening register page
+[2026-01-01T15:59:26.370Z] INFO: ✅ KeepAlive sent 5 requests
+[2026-01-01T15:59:34.744Z] INFO: ✍️ Filling registration form
+[2026-01-01T15:59:40.232Z] INFO: 🔗 Opening new post page
+[2026-01-01T15:59:44.083Z] ERROR: ❌ Post bot error: ❌ Post form not found (caption / image / submit)
+[2026-01-01T15:59:47.352Z] INFO: 📝 Post bot finished
+[2026-01-01T15:59:51.982Z] INFO: ✅ Account created successfully: sadye_raynor@yahoo.com
+[2026-01-01T15:59:51.986Z] INFO: 🔁 Opening login page
+[2026-01-01T15:59:55.196Z] INFO: ✍️ Filling login form
+[2026-01-01T16:00:52.023Z] INFO: 👤 Running Account Bot
+[2026-01-01T16:00:52.086Z] INFO: 👤 Account bot started
+[2026-01-01T16:00:55.985Z] INFO: 🔗 Opening register page
+[2026-01-01T16:01:01.654Z] INFO: ✍️ Filling registration form
+[2026-01-01T16:01:14.582Z] INFO: ✅ Account created successfully: kaleigh_herzog-feil91@yahoo.com
+[2026-01-01T16:01:14.585Z] INFO: 🔁 Opening login page
+[2026-01-01T16:01:17.326Z] INFO: ✍️ Filling login form
+[2026-01-01T16:01:31.790Z] INFO: 🔓 Logged in successfully: kaleigh_herzog-feil91@yahoo.com
+[2026-01-01T16:01:31.834Z] INFO: 💾 Account saved with session cookies
+[2026-01-01T16:01:45.848Z] ERROR: ❌ Error running bots:
+[2026-01-01T16:02:13.647Z] INFO: 👤 Running Account Bot
+[2026-01-01T16:02:13.678Z] INFO: 👤 Account bot started
+[2026-01-01T16:02:17.521Z] INFO: 🔗 Opening register page
+[2026-01-01T16:02:22.271Z] INFO: ✍️ Filling registration form
+[2026-01-01T16:02:33.944Z] INFO: ✅ Account created successfully: aiden.lebsack@yahoo.com
+[2026-01-01T16:02:33.947Z] INFO: 🔁 Opening login page
+[2026-01-01T16:02:36.434Z] INFO: ✍️ Filling login form
+[2026-01-01T16:02:47.629Z] INFO: 🔓 Logged in successfully: aiden.lebsack@yahoo.com
+[2026-01-01T16:02:47.646Z] INFO: 💾 Account saved with session cookies
+[2026-01-01T16:02:48.399Z] INFO: 👤 Account bot finished
+[2026-01-01T16:02:48.402Z] INFO: ❤️ Running Engagement Bot
+[2026-01-01T16:03:25.723Z] INFO: 🎉 Engagement bot finished for all posts!
+[2026-01-01T16:03:25.757Z] INFO: 📝 Running Post Bot
+[2026-01-01T16:03:25.761Z] INFO: 📝 Post bot started using account: elsie14@yahoo.com
+[2026-01-01T16:03:25.763Z] INFO: 🍪 Cookies count: 3
+[2026-01-01T16:03:38.726Z] INFO: 🔗 Opening new post page
+[2026-01-01T16:03:41.983Z] ERROR: ❌ Post bot error: ❌ Post form not found (caption / image / submit)
+[2026-01-01T16:03:42.768Z] INFO: 📝 Post bot finished
+[2026-01-01T16:03:44.536Z] INFO: ✅ KeepAlive ping success
+[2026-01-01T16:03:44.539Z] INFO: 🎉 All bots finished successfully!
+[2026-01-01T16:12:36.085Z] INFO: 👤 Running Account Bot (50 remaining today)
+[2026-01-01T16:12:36.116Z] INFO: 👤 Account bot started
+[2026-01-01T16:12:36.150Z] INFO: 📝 Running Post Bot (1/2)
+[2026-01-01T16:12:36.159Z] INFO: 📝 Using last account: aiden.lebsack@yahoo.com
+[2026-01-01T16:12:36.649Z] INFO: 🚀 Bot system started and running 24/7
+[2026-01-01T16:12:42.213Z] INFO: 🔐 Logging in
+[2026-01-01T16:12:42.385Z] INFO: 🔗 Opening register page
+[2026-01-01T16:12:45.527Z] INFO: ✅ KeepAlive sent 5 requests
+[2026-01-01T16:12:47.094Z] INFO: ✍️ Filling registration form
+[2026-01-01T16:12:58.530Z] ERROR: ❌ Post bot error: Login failed
+[2026-01-01T16:12:59.876Z] INFO: ✅ Account created successfully: liam_leuschke@yahoo.com
+[2026-01-01T16:12:59.880Z] INFO: 🔁 Opening login page
+[2026-01-01T16:13:01.922Z] INFO: 📝 Post bot finished
+[2026-01-01T16:13:02.848Z] INFO: ✍️ Filling login form
+[2026-01-01T16:13:49.113Z] INFO: 👤 Running Account Bot (50 remaining today)
+[2026-01-01T16:13:49.128Z] INFO: 👤 Account bot started
+[2026-01-01T16:13:49.160Z] INFO: 📝 Running Post Bot (1/2)
+[2026-01-01T16:13:49.167Z] INFO: 📝 Using last account: aiden.lebsack@yahoo.com
+[2026-01-01T16:13:49.507Z] INFO: 🚀 Bot system started and running 24/7
+[2026-01-01T16:13:54.100Z] INFO: 🔐 Logging in
+[2026-01-01T16:13:54.124Z] INFO: 🔗 Opening register page
+[2026-01-01T16:13:58.744Z] INFO: ✅ KeepAlive sent 5 requests
+[2026-01-01T16:13:58.840Z] INFO: ✍️ Filling registration form
+[2026-01-01T16:14:09.724Z] ERROR: ❌ Post bot error: Login failed
+[2026-01-01T16:14:10.783Z] INFO: 📝 Post bot finished
+[2026-01-01T16:14:11.237Z] INFO: ✅ Account created successfully: savion_walker@hotmail.com
+[2026-01-01T16:14:11.241Z] INFO: 🔁 Opening login page
+[2026-01-01T16:14:13.607Z] INFO: ✍️ Filling login form
+[2026-01-01T16:21:35.808Z] INFO: 👤 Running Account Bot (50 remaining today)
+[2026-01-01T16:21:35.838Z] INFO: 👤 Account bot started
+[2026-01-01T16:21:35.873Z] INFO: 📝 Running Post Bot (1/2)
+[2026-01-01T16:21:35.888Z] INFO: 📝 Using last account: aiden.lebsack@yahoo.com
+[2026-01-01T16:21:36.302Z] INFO: 🚀 Bot system started and running 24/7
+[2026-01-01T16:21:42.758Z] INFO: 🔐 Logging in
+[2026-01-01T16:21:42.907Z] INFO: 🔗 Opening register page
+[2026-01-01T16:21:43.281Z] INFO: ✅ KeepAlive sent 5 requests
+[2026-01-01T16:21:46.763Z] INFO: ✍️ Filling registration form
+[2026-01-01T16:21:59.653Z] INFO: ✅ Account created successfully: william14@hotmail.com
+[2026-01-01T16:21:59.714Z] INFO: 🔁 Opening login page
+[2026-01-01T16:22:02.503Z] INFO: ✍️ Filling login form
+[2026-01-01T16:22:02.516Z] INFO: ✅ Logged in successfully
+[2026-01-01T16:22:02.519Z] INFO: ➕ Opening new post page
+[2026-01-01T16:22:05.167Z] INFO: ✍️ Writing post
+[2026-01-01T16:22:14.827Z] INFO: 🔓 Logged in successfully: william14@hotmail.com
+[2026-01-01T16:22:14.840Z] INFO: 💾 Account saved with session cookies
+[2026-01-01T16:22:15.919Z] INFO: 👤 Account bot finished
+[2026-01-01T16:22:15.922Z] INFO: ❤️ Running Engagement Bot
+[2026-01-01T16:22:24.776Z] INFO: ✅ Post published successfully
+[2026-01-01T16:22:25.406Z] INFO: 📝 Post bot finished
+[2026-01-01T16:22:41.160Z] INFO: ✅ KeepAlive sent 5 requests
+[2026-01-01T16:56:52.726Z] INFO: 👤 Running Account Bot (50 remaining today)
+[2026-01-01T16:56:52.752Z] INFO: 👤 Account bot started
+[2026-01-01T16:56:52.783Z] INFO: 📝 Running Post Bot (1/2)
+[2026-01-01T16:56:52.793Z] INFO: 📝 Using last account: william14@hotmail.com
+[2026-01-01T16:56:53.170Z] INFO: 🚀 Bot system started and running 24/7
+[2026-01-01T16:56:58.137Z] INFO: 🔗 Opening register page
+[2026-01-01T16:56:58.238Z] INFO: 🔐 Logging in
+[2026-01-01T16:57:00.780Z] INFO: ✅ KeepAlive sent 5 requests
+[2026-01-01T16:57:03.161Z] INFO: ✍️ Filling registration form
+[2026-01-01T16:57:15.280Z] INFO: ✅ Account created successfully: jeramie38@gmail.com
+[2026-01-01T16:57:15.282Z] INFO: 🔁 Opening login page
+[2026-01-01T16:57:17.833Z] INFO: ✍️ Filling login form
+[2026-01-01T16:57:18.093Z] INFO: ✅ Logged in successfully
+[2026-01-01T16:57:18.096Z] INFO: ➕ Opening new post page
+[2026-01-01T16:57:20.285Z] INFO: ✍️ Writing post
+[2026-01-01T16:57:29.703Z] INFO: 🔓 Logged in successfully: jeramie38@gmail.com
+[2026-01-01T16:57:29.730Z] INFO: 💾 Account saved with session cookies
+[2026-01-01T16:57:30.558Z] ERROR: ❌ Post bot error: The "path" argument must be of type string. Received undefined
+[2026-01-01T16:57:31.288Z] INFO: 👤 Account bot finished
+[2026-01-01T16:57:31.292Z] INFO: ❤️ Running Engagement Bot
+[2026-01-01T16:57:31.818Z] INFO: 📝 Post bot finished
+[2026-01-01T17:08:19.600Z] INFO: 👤 Running Account Bot (50 remaining today)
+[2026-01-01T17:08:19.630Z] INFO: 👤 Account bot started
+[2026-01-01T17:08:19.663Z] INFO: 📝 Running Post Bot (1/2)
+[2026-01-01T17:08:19.673Z] INFO: 📝 Using last account: jeramie38@gmail.com
+[2026-01-01T17:08:20.100Z] INFO: 🚀 Bot system started and running 24/7
+[2026-01-01T17:08:26.172Z] INFO: 🔗 Opening register page
+[2026-01-01T17:08:26.196Z] INFO: 🔐 Logging in
+[2026-01-01T17:08:28.361Z] INFO: ✅ KeepAlive sent 5 requests
+[2026-01-01T17:08:32.278Z] INFO: ✍️ Filling registration form
+[2026-01-01T17:13:43.490Z] INFO: 👤 Running Account Bot (50 remaining today)
+[2026-01-01T17:13:43.519Z] INFO: 👤 Account bot started
+[2026-01-01T17:13:43.551Z] INFO: 📝 Running Post Bot (1/2)
+[2026-01-01T17:13:43.560Z] INFO: 📝 Using last account: jeramie38@gmail.com
+[2026-01-01T17:13:43.952Z] INFO: 🚀 Bot system started and running 24/7
+[2026-01-01T17:13:48.684Z] INFO: 🔗 Opening register page
+[2026-01-01T17:13:48.865Z] INFO: 🔐 Logging in
+[2026-01-01T17:13:51.295Z] INFO: ✅ KeepAlive sent 5 requests
+[2026-01-01T17:13:52.837Z] INFO: ✍️ Filling registration form
+[2026-01-01T17:14:05.915Z] INFO: ✅ Account created successfully: mara.feil21@yahoo.com
+[2026-01-01T17:14:05.918Z] INFO: 🔁 Opening login page
+[2026-01-01T17:14:06.495Z] INFO: ✅ Logged in successfully
+[2026-01-01T17:14:06.497Z] INFO: ➕ Opening new post page
+[2026-01-01T17:14:08.386Z] INFO: ✍️ Filling login form
+[2026-01-01T17:14:08.992Z] INFO: ✍️ Writing post
+[2026-01-01T17:14:16.974Z] ERROR: ❌ Post bot error: Unexpected end of JSON input
+[2026-01-01T17:14:17.885Z] INFO: 📝 Post bot finished
+[2026-01-01T17:14:19.466Z] INFO: 🔓 Logged in successfully: mara.feil21@yahoo.com
+[2026-01-01T17:14:19.481Z] INFO: 💾 Account saved with session cookies
+[2026-01-01T17:14:20.305Z] INFO: 👤 Account bot finished
+[2026-01-01T17:14:20.319Z] INFO: ❤️ Running Engagement Bot
+[2026-01-01T17:16:54.196Z] INFO: 👤 Running Account Bot (50 remaining today)
+[2026-01-01T17:16:54.226Z] INFO: 👤 Account bot started
+[2026-01-01T17:16:54.263Z] INFO: 📝 Running Post Bot (1/2)
+[2026-01-01T17:16:54.270Z] INFO: 📝 Using last account: mara.feil21@yahoo.com
+[2026-01-01T17:16:54.641Z] INFO: 🚀 Bot system started and running 24/7
+[2026-01-01T17:16:59.429Z] INFO: 🔗 Opening register page
+[2026-01-01T17:16:59.563Z] INFO: 🔐 Logging in
+[2026-01-01T17:17:01.924Z] INFO: ✅ KeepAlive sent 5 requests
+[2026-01-01T17:17:03.860Z] INFO: ✍️ Filling registration form
+[2026-01-01T17:17:15.261Z] INFO: ✅ Account created successfully: ladarius_nienow@yahoo.com
+[2026-01-01T17:17:15.266Z] INFO: 🔁 Opening login page
+[2026-01-01T17:17:17.102Z] INFO: ✅ Logged in successfully
+[2026-01-01T17:17:17.106Z] INFO: ➕ Opening new post page
+[2026-01-01T17:17:17.780Z] INFO: ✍️ Filling login form
+[2026-01-01T17:17:19.652Z] INFO: ✍️ Writing post
+[2026-01-01T17:17:30.149Z] INFO: 🔓 Logged in successfully: ladarius_nienow@yahoo.com
+[2026-01-01T17:17:30.197Z] INFO: 💾 Account saved with session cookies
+[2026-01-01T17:17:31.098Z] INFO: 👤 Account bot finished
+[2026-01-01T17:17:31.101Z] INFO: ❤️ Running Engagement Bot
+[2026-01-01T17:17:33.688Z] INFO: ✅ Post published successfully
+[2026-01-01T17:17:34.329Z] INFO: 📝 Post bot finished
+[2026-01-01T17:17:58.757Z] INFO: ✅ KeepAlive sent 5 requests
+[2026-01-01T17:18:14.593Z] INFO: 👤 Running Account Bot (50 remaining today)
+[2026-01-01T17:18:14.609Z] INFO: 👤 Account bot started
+[2026-01-01T17:18:14.636Z] INFO: 📝 Running Post Bot (1/2)
+[2026-01-01T17:18:14.644Z] INFO: 📝 Using last account: ladarius_nienow@yahoo.com
+[2026-01-01T17:18:14.979Z] INFO: 🚀 Bot system started and running 24/7
+[2026-01-01T17:18:18.958Z] INFO: 🔗 Opening register page
+[2026-01-01T17:18:18.989Z] INFO: 🔐 Logging in
+[2026-01-01T17:18:22.634Z] INFO: ✍️ Filling registration form
+[2026-01-01T17:18:22.902Z] INFO: ✅ KeepAlive sent 5 requests
+[2026-01-01T17:18:33.369Z] INFO: ✅ Account created successfully: ari1@gmail.com
+[2026-01-01T17:18:33.536Z] INFO: 🔁 Opening login page
+[2026-01-01T17:18:36.413Z] INFO: ✍️ Filling login form
+[2026-01-01T17:18:37.079Z] INFO: ✅ Logged in successfully
+[2026-01-01T17:18:37.081Z] INFO: ➕ Opening new post page
+[2026-01-01T17:18:39.238Z] INFO: ✍️ Writing post
+[2026-01-01T17:18:52.948Z] INFO: 🔓 Logged in successfully: ari1@gmail.com
+[2026-01-01T17:18:52.967Z] INFO: 💾 Account saved with session cookies
+[2026-01-01T17:18:54.037Z] INFO: 👤 Account bot finished
+[2026-01-01T17:18:54.041Z] INFO: ❤️ Running Engagement Bot
+[2026-01-01T17:19:01.622Z] INFO: ✅ Post published successfully
+[2026-01-01T17:19:02.617Z] INFO: 📝 Post bot finished
