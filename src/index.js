@@ -6,15 +6,16 @@ const logger = require('./utils/logger');
 const http = require('./utils/http');
 
 const app = express();
-const PORT = process.env.PORT || 10000;
+const PORT = process.env.PORT || process.env.PORT || 10000;
 
+/* ====================== Express Server ====================== */
 app.get('/', (req, res) => res.send('🤖 Bot is running'));
 app.listen(PORT, () => console.log(`🌐 Web Service listening on port ${PORT}`));
 
-/* ================= KeepAlive داخلي + زيارات مستمرة ================= */
+/* ====================== KeepAlive مستمرة ====================== */
 async function keepAliveForever() {
   try {
-    await http.get(process.env.SITE_URL); // زيارة الموقع
+    await http.get(process.env.SITE_URL);
     logger.info('✅ KeepAlive sent');
   } catch (err) {
     logger.error('❌ KeepAlive error:', err.message);
@@ -24,7 +25,7 @@ async function keepAliveForever() {
 }
 keepAliveForever();
 
-/* ================= تشغيل البوتات اليومية ================= */
+/* ====================== Counters يومية ====================== */
 let accountsRunToday = 0;
 let postsRunToday = 0;
 const DAILY_ACCOUNT_LIMIT = 50;
@@ -36,7 +37,7 @@ function resetDailyCounters() {
   logger.info('🔄 Daily counters reset');
 }
 
-// تحقق كل دقيقة إذا دخل يوم جديد
+// تحقق يوميًا إذا دخلنا يوم جديد
 let lastDay = new Date().getDate();
 setInterval(() => {
   const now = new Date();
@@ -46,22 +47,48 @@ setInterval(() => {
   }
 }, 60 * 1000);
 
+/* ====================== Run Bots يوميًا ====================== */
+
+// ⚠️ ملاحظة مهمة: على Render من الأفضل تشغيل بوت واحد لكل مرة لتجنب ETXTBSY
 async function runAccountsDaily() {
   if (accountsRunToday >= DAILY_ACCOUNT_LIMIT) return;
-  await runAccountBot(DAILY_ACCOUNT_LIMIT - accountsRunToday);
-  accountsRunToday = DAILY_ACCOUNT_LIMIT;
+
+  const remaining = DAILY_ACCOUNT_LIMIT - accountsRunToday;
+
+  for (let i = 0; i < remaining; i++) {
+    try {
+      logger.info(`👤 Running Account Bot (${i + 1}/${remaining})`);
+      await runAccountBot(1); // حساب واحد فقط في كل مرة
+      accountsRunToday += 1;
+      await new Promise(r => setTimeout(r, 5000)); // استراحة 5 ثواني بين كل حساب
+    } catch (err) {
+      logger.error('❌ Account bot error: ' + err.message);
+    }
+  }
 }
 
 async function runPostsDaily() {
   if (postsRunToday >= DAILY_POST_LIMIT) return;
-  await runPostBot(1);
-  postsRunToday += 1;
+
+  for (let i = 0; i < DAILY_POST_LIMIT; i++) {
+    try {
+      logger.info(`📝 Running Post Bot (${postsRunToday + 1}/${DAILY_POST_LIMIT})`);
+      await runPostBot(1); // منشور واحد فقط في كل مرة
+      postsRunToday += 1;
+      await new Promise(r => setTimeout(r, 5000)); // استراحة بسيطة بين المنشورات
+    } catch (err) {
+      logger.error('❌ Post bot error: ' + err.message);
+    }
+  }
 }
 
-// تشغيل أولي
+/* ====================== تشغيل أولي ====================== */
 runAccountsDaily();
 runPostsDaily();
 
-// تشغيل مجدول على Web Service
-setInterval(runAccountsDaily, 60 * 60 * 1000); // كل ساعة
-setInterval(runPostsDaily, 12 * 60 * 60 * 1000); // كل 12 ساعة
+/* ====================== جدولة على Web Service ====================== */
+// Render Web Service أفضل أن يشغّل بوت واحد كل مرة بدلاً من تشغيل دفعة
+setInterval(runAccountsDaily, 60 * 60 * 1000); // كل ساعة للتحقق من الحسابات
+setInterval(runPostsDaily, 12 * 60 * 60 * 1000); // كل 12 ساعة للتحقق من المنشورات
+
+logger.info('🚀 Bot system started and running on Render Web Service');
