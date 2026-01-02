@@ -1,0 +1,25 @@
+{
+  "posts": {
+    "enabled": true,
+    "categories": ["tech", "sports", "fun", "general", "ecommerce", "online-income", "marketing", "trading", "business"],
+    "maxPostsPerRun": 5
+  },
+
+  
+
+  "accounts": {
+    "enabled": true,
+    "maxPerDay": 10
+  },
+"engagement": {
+    "enabled": true,
+    "postsPerRun": 3,
+    "delayBetweenActions": 3000
+  },
+  "keepAlive": {
+    "enabled": true,
+    "intervalMinutes": 1
+  }
+  
+
+}
