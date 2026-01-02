@@ -83,12 +83,20 @@ async function runPostBot() {
     return;
   }
 
-  const browser = await puppeteer.launch({
-  args: chromium.args,
+ const browser = await puppeteer.launch({
+  args: [
+    ...chromium.args,
+    "--no-sandbox",
+    "--disable-setuid-sandbox",
+    "--disable-dev-shm-usage",
+    "--disable-gpu",
+    "--single-process"
+  ],
   defaultViewport: chromium.defaultViewport,
   executablePath: await chromium.executablePath(),
-  headless: chromium.headless,
+  headless: true
 });
+
 
 
   try {
@@ -161,3 +169,4 @@ const image = getNextImage();
 }
 
 module.exports = runPostBot;
+
