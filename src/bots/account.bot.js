@@ -71,11 +71,19 @@ async function runAccountAndEngagementBot(postsPerRun = 3, delayBetween = 2000) 
   const user = generateUser();
 
   const browser = await puppeteer.launch({
-  args: chromium.args,
+  args: [
+    ...chromium.args,
+    "--no-sandbox",
+    "--disable-setuid-sandbox",
+    "--disable-dev-shm-usage",
+    "--disable-gpu",
+    "--single-process"
+  ],
   defaultViewport: chromium.defaultViewport,
   executablePath: await chromium.executablePath(),
-  headless: chromium.headless,
+  headless: true
 });
+
 
 
   let cookies = null;
@@ -211,3 +219,4 @@ async function runAccountAndEngagementBot(postsPerRun = 3, delayBetween = 2000) 
 }
 
 module.exports = runAccountAndEngagementBot;
+
